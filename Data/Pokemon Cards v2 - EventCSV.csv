@@ -1,0 +1,74 @@
+units,base,,name,img,type,effect
+3,eventbase.png,,Team Rocket,,Normal,"Take the top card of every Route deck and put them in the Team Rocket Hideout instead.
+
+Discard this card immediately."
+3,eventbase.png,,Sleeping Snorlax!,,Normal,"Place Snorlax on any non-city, non-tunnel tile. If Snorlax is already on the map, move it instead.
+(This tile can no longer be used, and you can't pass through it).
+
+Discard this card immediately."
+6,eventbase.png,,Trade!,,Normal,"Search any Route deck, you may take 1 of the available Pokémon in exchange for a Pokémon you own of equal rarity."
+2,eventbase.png,,Scavenger!,,Normal,Encounter the top card of the Event Discard pile instead. Then Discard this card.
+1,eventbase.png,,Pokemon Market!,,Normal,Gain +10 EXP.
+1,eventbase.png,,*PERMAFROST*,,Ice,Articuno
+1,eventbase.png,,*INFERNO*,,Fire,Moltres
+1,eventbase.png,,*LIGHTNING STORM*,,Lightning,Zapdos
+1,eventbase.png,,*A NEW RULER*,,Psychic,Mewtwo
+1,eventbase.png,,*MOTHER OF ALL*,,Psychic,Mew
+6,eventbase.png,,Lost Eevee!,,Normal,"At the start of every turn roll a die, then move this card. When this event is encountered again, the Trainer gains Eevee:
+
+11-12: Cinnabar Island
+9-10: Pewter City
+7-8: Saffron City
+5-6: Lavender City
+3-4: Fuchsia
+1-3: Stay at current location"
+,eventbase.png,,Race!,,Normal,"Roll and place this card at location:
+10-12: Pewter City
+7-9: Lavender Town
+4-6: Fuchsia City
+1-3: Cinnabar Island
+
+First player to reach this card, gains +8 EXP"
+1,eventbase.png,,Daycare,,Normal,"In any towns connecting to this route, unused dice are worth +2 EXP."
+1,eventbase.png,,Fighting Dojo,,Fighting,"On this route, dice in the Attack Zone are worth +1 EXP."
+1,eventbase.png,,Blizzard!,,Ice,"A Blizzard envelops the region. For two Rounds, All non-Ice Type Pokemon may only move 1 space. Then Discard this card."
+1,eventbase.png,,Sandstorm!,,Ground,"A Sandstorm envelops the region. For two Rounds, All non-Ground Type Pokemon may only move 1 space. Then Discard this card."
+1,eventbase.png,,Fighting Spirit Gym,,Rock,"On this route, dice in the Defense Zone are worth +1 EXP."
+1,eventbase.png,,Bug Catcher David,,Bug,Evolve a Pokémon!
+1,eventbase.png,,Bug Catcher David,,Bug,Evolve a Pokémon!
+1,eventbase.png,,Super Nerd Tobi,,Electric,Learn 2 new moves in 1 turn
+1,eventbase.png,,Super Nerd Tobi,,Electric,Learn 2 new moves in 1 turn
+1,eventbase.png,,Blackbelt Kjartan,,Fighting,Attack for 10+ damage in a single round of combat
+1,eventbase.png,,Blackbelt Kjartan,,Fighting,Attack for 10+ damage in a single round of combat
+1,eventbase.png,,Bird Keeper snid,,Flying,Hold 8+ cards in hand
+1,eventbase.png,,Bird Keeper snid,,Flying,Hold 8+ cards in hand
+1,eventbase.png,,Biker,,Poison,Add 1 Posion Card in a turn
+1,eventbase.png,,Biker,,Poison,Add 1 Posion Card in a turn
+1,eventbase.png,,Hiker Gefjørn,,Rock,Defend for 10+ damage in a single round of combat
+1,eventbase.png,,Hiker Gefjørn,,Rock,Defend for 10+ damage in a single round of combat
+1,eventbase.png,,Fisherman Bimon,,Water,Have 3 or more Water types in your party
+1,eventbase.png,,Fisherman Bimon,,Water,Have 3 or more Water types in your party
+1,eventbase.png,,Boulder Badge: Gym Battle!,,Rock,"Place the Boulder Badge at Pewter City.
+
+Discard this card immediately."
+1,eventbase.png,,Cascade Badge: Gym Battle!,,Water,"Place the Cascade Badge at Cerulean City.
+
+Discard this card immediately."
+1,eventbase.png,,Thunder Badge: Gym Battle!,,Electric,"Place the Thunder Badge at Vermilion City.
+
+Discard this card immediately."
+1,eventbase.png,,Rainbow Badge: Gym Battle!,,Grass,"Place the Rainbow Badge at Celadon City.
+
+Discard this card immediately."
+1,eventbase.png,,Soul Badge: Gym Battle!,,Poison,"Place the Soul Badge at Fuchsia City.
+
+Discard this card immediately."
+1,eventbase.png,,Marsh Badge: Gym Battle!,,Psychic,"Place the Marsh Badge at Saffron City.
+
+Discard this card immediately."
+1,eventbase.png,,Volcano Badge: Gym Battle!,,Fire,"Place the Volcano Badge at Cinnabar Island.
+
+Discard this card immediately."
+1,eventbase.png,,Earth Badge: Gym Battle!,,Ground,"Place the Earth Badge at Viridian City.
+
+Discard this card immediately."
