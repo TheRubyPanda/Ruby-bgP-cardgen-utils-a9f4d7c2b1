@@ -1,160 +1,160 @@
 units,base,id,name,sprite,title,type,hp,atk,def,spd,trigger,trigger2,trigger3,ability,explanation,sm1sprite,lg1sprite,ida,sm2sprite,lg2sprite,idb,sm3sprite,lg3sprite,idc
-1,base3a.png,No.OO1,BULBASAUR,1.png,THE SEED POKÉMON,GRASS,4,5,5,4,round.png,ally.png,,"At the end of each Round, Bulbsaur Recovers 1 HP to all allies",,,1.png,No.OO1,2.png,,No.OO2,3.png,,No.OO3
-1,base3b.png,No.OO2,IVYSAUR,2.png,THE SEED POKÉMON,GRASS,5,5,6,5,round.png,ally.png,,"At the end of each Round, Ivysaur Recovers 2 HP to all allies",,1.png,,No.OO1,,2.png,No.OO2,3.png,,No.OO3
-1,base3c.png,No.OO3,VENUSAUR,3.png,THE SEED POKÉMON,GRASS,7,7,7,7,round.png,ally.png,,"At the end of each Round, Venusaur Recovers 3 HP to all allies",,1.png,,No.OO1,2.png,,No.OO2,,3.png,No.OO3
-1,base3a.png,No.OO4,CHARMANDER,4.png,THE LIZARD POKÉMON,FIRE,3,5,4,5,round.png,self.png,,Charmander gains +1 ATK for every Burned die it has.,*Burned die:* Burned dice will not be rolled the next round,,4.png,No.OO4,5.png,,No.OO5,6.png,,No.OO6
-1,base3b.png,No.OO5,CHARMELEON,5.png,THE FLAME POKÉMON,FIRE,5,6,5,6,round.png,self.png,,Charmeleon gets +2 ATK for every Burned die it has.,*Burned die:* Burned dice will not be rolled the next round,4.png,,No.OO4,,5.png,No.OO5,6.png,,No.OO6
-1,base3c.png,No.OO6,CHARIZARD,6.png,THE FLAME POKÉMON,FIRE,6,8,7,7,round.png,self.png,,Charizard gets +3 ATK for every Burned die it has.,*Burned die:* Burned dice will not be rolled the next round,4.png,,No.OO4,5.png,,No.OO5,,6.png,No.OO6
-1,base3a.png,No.OO7,SQUIRTLE,7.png,THE TINY TURTLE POKÉMON,WATER,4,4,5,4,round.png,self.png,,"Immediately before Attacking, Squirtle may move any 1 ally die from Defense Zone to the Attack Zone or vice versa regardless of stats.",,,7.png,No.OO7,8.png,,No.OO8,9.png,,No.OO9
-1,base3b.png,No.OO8,WARTORTLE,8.png,THE TURTLE POKÉMON,WATER,5,5,6,5,round.png,self.png,,"Immediately before Attacking, Wartortle may move any 2 ally die from Defense Zone to the Attack Zone or vice versa regardless ofstats.",,7.png,,No.OO7,,8.png,No.OO8,9.png,,No.OO9
-1,base3c.png,No.OO9,BLASTOISE,9.png,THE SHELLFISH POKÉMON,WATER,7,7,8,6,round.png,self.png,,"Immediately before Attacking, Blastoise may move any 3 ally dice from the Defense Zone to the Attack Zone or vice versa regardless of stats.",,7.png,,No.OO7,8.png,,No.OO8,,9.png,No.OO9
-1,base3a.png,No.O1O,CATERPIE,10.png,THE WORM POKÉMON,BUG,4,2,2,4,mixed.png,self.png,,When Metapod is revealed (even if not encountered). Evolve Caterpie immediately. Re-draw the encounter.,,,10.png,No.O1O,11.png,,No.O11,12.png,,No.O12
-1,base3b.png,No.O11,METAPOD,11.png,THE COCOON POKÉMON,BUG,4,2,3,3,mixed.png,self.png,,When Butterfree is revealed (even if not encountered). Evolve Metapod immediately. Re-draw the encounter.,,10.png,,No.O1O,,11.png,No.O11,12.png,,No.O12
-1,base3c.png,No.O12,BUTTERFREE,12.png,THE BUTTERFLY POKÉMON,BUG,5,5,5,6,mixed.png,ally.png,,"Butterfree gives allies DEF equal to number of Bug type Pokemon owned.
+1,base3a.png,No.OO1,BULBASAUR,1.png,THE SEED POKÉMON,GRASS,4,5,5,4,,,,"At the end of each Round, Bulbsaur Recovers 1 HP to all allies",,,1.png,No.OO1,2.png,,No.OO2,3.png,,No.OO3
+1,base3a.png,No.OO4,CHARMANDER,4.png,THE LIZARD POKÉMON,FIRE,5,5,6,5,,,,Charmander gains +1 ATK for every Burned die it has.,*Burned die:* Burned dice will not be rolled the next round,,4.png,No.OO4,5.png,,No.OO5,6.png,,No.OO6
+1,base3a.png,No.OO7,SQUIRTLE,7.png,THE TINY TURTLE POKÉMON,WATER,7,7,7,7,,,,"Immediately before Attacking, Squirtle may move any 1 ally die from Defense Zone to the Attack Zone or vice versa regardless of stats.",,,7.png,No.OO7,8.png,,No.OO8,9.png,,No.OO9
+1,base3a.png,No.O1O,CATERPIE,10.png,THE WORM POKÉMON,BUG,3,5,4,5,,,,When Metapod is revealed (even if not encountered). Evolve Caterpie immediately. Re-draw the encounter.,,,10.png,No.O1O,11.png,,No.O11,12.png,,No.O12
+1,base3b.png,No.O11,METAPOD,11.png,THE COCOON POKÉMON,BUG,5,6,5,6,,,,When Butterfree is revealed (even if not encountered). Evolve Metapod immediately. Re-draw the encounter.,,10.png,,No.O1O,,11.png,No.O11,12.png,,No.O12
+1,base3a.png,No.O13,WEEDLE,13.png,THE HAIRY BUG POKÉMON,BUG,6,8,7,7,,,,When Kakuna is revealed (even if not encountered). Evolve Weedle immediately. Re-draw the encounter.,,,13.png,No.O13,14.png,,No.O14,15.png,,No.O15
+1,base3b.png,No.O14,KAKUNA,14.png,THE COCOON POKÉMON,BUG,4,4,5,4,,,,When Beedrill is revealed (even if not encountered). Evolve Kakuna immediately. Re-draw the encounter.,,13.png,,No.O13,,14.png,No.O14,15.png,,No.O15
+1,base3a.png,No.O16,PIDGEY,16.png,THE TINY BIRD POKÉMON,FLYING,5,5,6,5,,,,"If an ally is slower than Pidgey, Pidgey Draws them 1 Card at the start of Round",,,16.png,No.O16,17.png,,No.O17,18.png,,No.O18
+1,base2a.png,No.O19,RATTATA,19.png,THE MOUSE POKÉMON,NORMAL,7,7,8,6,,,,"At the start of an ally's turn, Rattata may remove 1 Move from the Move Pool, immediately replenish it with the top of the Move deck.",,,19.png,No.O19,,,,20.png,,No.O2O
+1,base2a.png,No.O21,SPEAROW,21.png,THE TINY BIRD POKÉMON,FLYING,4,2,2,4,,,,"At the start of Round, an ally may discard 1 card, if they do, Spearow Draws 1",,,21.png,No.O21,,,,22.png,,No.O22
+1,base2a.png,No.O23,EKANS,23.png,THE SNAKE POKÉMON,POISON,4,2,3,3,,,,,,,23.png,No.O23,,,,24.png,,No.O24
+1,base2a.png,No.O25,PIKACHU,25.png,THE MOUSE POKÉMON,ELECTRIC,5,5,5,6,,,,,,,25.png,No.O25,,,,26.png,,No.O26
+1,base2a.png,No.O27,SANDSHREW,27.png,THE MOUSE POKÉMON,GROUND,4,2,2,4,,,,"At the start of Round, Sandshrew Digs 1. ","*Dig X:* Look at the top X cards, you may Discard any of them instead.",,27.png,No.O27,,,,28.png,,No.O28
+1,base3a.png,No.O29,NIDORAN♀,29.png,THE POISON PIN POKÉMON,POISON,4,2,3,3,,,,Whenever you add a Poison card to the Rival's Deck. Nidoran gives -1 to a die of your choice.,,,29.png,No.O29,30.png,,No.O3O,31.png,,No.O31
+1,base3a.png,No.O32,NIDORAN♂,32.png,THE POISON PIN POKÉMON,POISON,6,5,5,6,,,,Whenever you add a Poison card to the Rival's Deck. Nidoran gives +1 to a die of your choice.,,,32.png,No.O32,33.png,,No.O33,34.png,,No.O34
+1,base2a.png,No.O35,CLEFAIRY,35.png,THE FAIRY POKÉMON,NORMAL,3,3,3,5,,,,At the start of Clefairy's Turns look at the top card of the Move Deck. It may move it on the bottom instead.,,,35.png,No.O35,,,,36.png,,No.O36
+1,base2a.png,No.O37,VULPIX,37.png,THE FOX POKÉMON,FIRE,5,5,4,6,,,,Vulpix allows allies to use Burned dice as rolls of 12,*Burned die:* Burned dice will not be rolled the next round,,37.png,No.O37,,,,38.png,,No.O38
+1,base2a.png,No.O39,JIGGLYPUFF,39.png,THE BALLOON POKÉMON,NORMAL,7,6,6,8,,,,At the start of an ally's turn. Jigglypuff grants them +1 EXP,,,39.png,No.O39,,,,40.png,,No.O4O
+1,base2a.png,No.O41,ZUBAT,41.png,THE BAT POKÉMON,POISON,3,3,3,6,,,,,,,41.png,No.O41,,,,42.png,,No.O42
+1,base3a.png,No.O43,ODDISH,43.png,THE WEED POKÉMON,GRASS,5,5,5,8,,,,,,,43.png,No.O43,44.png,,No.O44,45.png,,No.O45
+1,base2a.png,No.O46,PARAS,46.png,THE MUSHROOM POKÉMON,BUG,3,4,2,6,,,,"At the start of your turn, Paras may fill out 1 empty slot on your current route",,,46.png,No.O46,,,,47.png,,No.O47
+1,base2a.png,No.O48,VENONAT,48.png,THE INSECT POKÉMON,BUG,6,6,5,8,,,,"At the start of your turn, Venonat may switch the locations of 2 adjacent wild Pokemon on the same Route.",,,48.png,No.O48,,,,49.png,,No.O49
+1,base2a.png,No.O5O,DIGLETT,50.png,THE MOLE POKÉMON,GROUND,3,4,4,4,,,,"At the end of Round, Diglett Digs 1. ","*Dig X:* Look at the top X cards, you may Discard any of them instead.",,50.png,No.O5O,,,,51.png,,No.O51
+1,base2a.png,No.O52,MEOWTH,52.png,THE SCRATCH CAT POKÉMON,NORMAL,5,6,6,7,,,,Meowth increases the EXP gained from unused dice by 1,,,52.png,No.O52,,,,53.png,,No.O53
+1,base2a.png,No.O54,PSYDUCK,54.png,THE DUCK POKÉMON,WATER,3,4,4,7,,,,Psyduck may use its allies ATK and DEF instead of its own.,,,54.png,No.O54,,,,55.png,,No.O55
+1,base2a.png,No.O56,MANKEY,56.png,THE PIG MONKEY POKÉMON,FIGHTING,5,7,6,9,,,,Mankey increases all allied X values by 1.,,,56.png,No.O56,,,,57.png,,No.O57
+1,base2a.png,No.O58,GROWLITHE,58.png,THE PUPPY POKÉMON,FIRE,4,4,5,3,,,,"Whenever an ally Burns dice, Growlithe Burns 1 enemy die.",*Burned die:* Burned dice will not be rolled the next round,,58.png,No.O58,,,,59.png,,No.O59
+1,base3a.png,No.O6O,POLIWAG,60.png,THE TADPOLE POKÉMON,WATER,6,6,7,5,,,,,,,60.png,No.O6O,61.png,,No.O61,62.png,,No.O62
+1,base3a.png,No.O63,ABRA,63.png,THE PSI POKÉMON,PSYCHIC,5,3,4,3,,,,"After rolling dice, Abra may target any 1 die and give it +1 or -1",,,63.png,No.O63,64.png,,No.O64,65.png,,No.O65
+1,base3a.png,No.O66,MACHOP,66.png,THE SUPERPOWER POKÉMON,FIGHTING,6,5,5,4,,,,"Whenever Machop uses a Fighting type move, it gains +1 ATK till the end of Round.",,,66.png,No.O66,67.png,,No.O67,68.png,,No.O68
+1,base3a.png,No.O69,BELLSPROUT,69.png,THE FLOWER POKÉMON,GRASS,7,7,7,6,,,,,,,69.png,No.O69,70.png,,No.O7O,71.png,,No.O71
+1,base2a.png,No.O72,TENTACOOL,72.png,THE JELLYFISH POKÉMON,WATER,4,4,3,4,,,,,,,72.png,No.O72,,,,73.png,,No.O73
+1,base3a.png,No.O74,GEODUDE,74.png,THE ROCK POKÉMON,ROCK,5,5,5,5,,,,"Geodude may discard dice equal to or lower than its DEF value, to reduce incoming damage by 1.",,,74.png,No.O74,75.png,,No.O75,76.png,,No.O76
+1,base2a.png,No.O79,SLOWPOKE,79.png,THE DOPEY POKÉMON,WATER,7,7,6,7,,,,"The first time a die enters an ally's Defense Zone, Krabby grants all allies +1 ATK.",,,79.png,No.O79,,,,80.png,,No.O8O
+1,base2a.png,No.O81,MAGNEMITE,81.png,THE MAGNET POKÉMON,ELECTRIC,6,4,4,3,,,,,,,81.png,No.O81,,,,82.png,,No.O82
+1,base2a.png,No.O84,DODUO,84.png,THE TWIN BIRD POKÉMON,FLYING,8,7,6,5,,,,You may roll 2 Movement dice instead of 1. You pick which result you would like to use.,,,84.png,No.O84,,,,85.png,,No.O85
+1,base2a.png,No.O86,SEEL,86.png,THE SEA LION POKÉMON,ICE,3,4,4,5,,,,"At the start of each Round, Seel Freezes 1 ally die.",,,86.png,No.O86,,,,87.png,,No.O87
+1,base2a.png,No.O88,GRIMER,88.png,THE SLUDGE POKÉMON,POISON,6,6,7,9,,,,Whenever you add Poison cards to the Rival's Deck. Grimer recovers 1 HP to all allies.,,,88.png,No.O88,,,,89.png,,No.O89
+1,base2a.png,No.O9O,SHELLDER,90.png,THE BIVALVE POKÉMON,ICE,9,4,2,2,,,,,,,90.png,No.O9O,,,,91.png,,No.O91
+1,base3a.png,No.O92,GASTLY,92.png,THE GAS POKÉMON,GHOST,11,6,4,4,,,,"At the start of Round, Gastly forcing Rival to Discard 1 Card.",,,92.png,No.O92,93.png,,No.O93,94.png,,No.O94
+1,base2a.png,No.O96,DROWZEE,96.png,THE HYPNOSIS POKÉMON,PSYCHIC,3,3,3,5,,,,"After rolling dice, Drowzee may re-roll any 1 allied die.",,,96.png,No.O96,,,,97.png,,No.O97
+1,base2a.png,No.O98,KRABBY,98.png,THE RIVER CRAB POKÉMON,WATER,6,6,6,7,,,,"The first time an ally loses HP, Horsea draws 1.",,,98.png,No.O98,,,,99.png,,No.O99
+1,base2a.png,No.1OO,VOLTORB,100.png,THE BALL POKÉMON,ELECTRIC,4,5,5,2,,,,,,,100.png,No.1OO,,,,101.png,,No.1O1
+1,base2a.png,No.1O4,CUBONE,104.png,THE LONELY POKÉMON,GROUND,5,6,6,3,,,,"The first time an ally performs a Move, Cubone may place the used card back on top of the deck, rather than discard it.",,,104.png,No.1O4,,,,105.png,,No.1O5
+1,base2a.png,No.1O9,KOFFING,109.png,THE POISON GAS POKÉMON,POISON,6,8,7,4,,,,Whenever you add Poison cards to the Rival's Deck. Koffing deals 1 damage.,,,109.png,No.1O9,,,,110.png,,No.11O
+1,base2a.png,No.116,HORSEA,116.png,THE DRAGON POKÉMON,WATER,3,5,4,2,,,,"The first time a die enters an ally's Attack Zone, Goldeen grants all allies +1 DEF.",,,116.png,No.116,,,,117.png,,No.117
+1,base2a.png,No.118,GOLDEEN,118.png,THE GOLDFISH POKÉMON,WATER,5,6,6,3,,,,,,,118.png,No.118,,,,119.png,,No.119
+1,base2a.png,No.12O,STARYU,120.png,THE STAR SHAPE POKÉMON,WATER,5,4,4,4,,,,,,,120.png,No.12O,,,,121.png,,No.121
+1,base1.png,No.132,DITTO,132.png,THE TRANSFORM POKÉMON,NORMAL,6,6,5,8,,,,"Whenever Ditto is sent into battle, you may put another Pokemon you own in its place.",,,,,,132.png,No.132,,,
+1,base3b.png,No.OO2,IVYSAUR,2.png,THE SEED POKÉMON,GRASS,1,3,3,8,,,,"At the end of each Round, Ivysaur Recovers 2 HP to all allies",,1.png,,No.OO1,,2.png,No.OO2,3.png,,No.OO3
+1,base3b.png,No.OO5,CHARMELEON,5.png,THE FLAME POKÉMON,FIRE,3,6,5,1O,,,,Charmeleon gets +2 ATK for every Burned die it has.,*Burned die:* Burned dice will not be rolled the next round,4.png,,No.OO4,,5.png,No.OO5,6.png,,No.OO6
+1,base3b.png,No.OO8,WARTORTLE,8.png,THE TURTLE POKÉMON,WATER,3,3,3,8,,,,"Immediately before Attacking, Wartortle may move any 2 ally die from Defense Zone to the Attack Zone or vice versa regardless ofstats.",,7.png,,No.OO7,,8.png,No.OO8,9.png,,No.OO9
+1,base3c.png,No.O12,BUTTERFREE,12.png,THE BUTTERFLY POKÉMON,BUG,5,5,5,1O,,,,"Butterfree gives allies DEF equal to number of Bug type Pokemon owned.
 
 (DEF cannot exceed 12)",,10.png,,No.O1O,11.png,,No.O11,,12.png,No.O12
-1,base3a.png,No.O13,WEEDLE,13.png,THE HAIRY BUG POKÉMON,BUG,4,2,2,4,mixed.png,self.png,,When Kakuna is revealed (even if not encountered). Evolve Weedle immediately. Re-draw the encounter.,,,13.png,No.O13,14.png,,No.O14,15.png,,No.O15
-1,base3b.png,No.O14,KAKUNA,14.png,THE COCOON POKÉMON,BUG,4,2,3,3,mixed.png,self.png,,When Beedrill is revealed (even if not encountered). Evolve Kakunaimmediately. Re-draw the encounter.,,13.png,,No.O13,,14.png,No.O14,15.png,,No.O15
-1,base3c.png,No.O15,BEEDRILL,15.png,THE POISON BEE POKÉMON,BUG,6,5,5,6,mixed.png,ally.png,,"Beedrill gives allies ATK equal to number of Bug type Pokemon owned.
+1,base3c.png,No.O15,BEEDRILL,15.png,THE POISON BEE POKÉMON,BUG,4,5,4,4,,,,"Beedrill gives allies ATK equal to number of Bug type Pokemon owned.
 ",,13.png,,No.O13,14.png,,No.O14,,15.png,No.O15
-1,base3a.png,No.O16,PIDGEY,16.png,THE TINY BIRD POKÉMON,FLYING,3,3,3,5,mixed.png,ally.png,,"If an ally is slower than Pidgey, Pidgey Draws them 1 Card at the start of Round",,,16.png,No.O16,17.png,,No.O17,18.png,,No.O18
-1,base3b.png,No.O17,PIDGEOTTO,17.png,THE BIRD POKÉMON,FLYING,5,5,4,6,mixed.png,ally.png,,"If an ally is slower than Pidgeotto, Pidgeotto Draws them 2 Cards at the start of Round",,16.png,,No.O16,,17.png,No.O17,18.png,,No.O18
-1,base3c.png,No.O18,PIDGEOT,18.png,THE BIRD POKÉMON,FLYING,7,6,6,8,mixed.png,ally.png,,"If an ally is slower than Pidgeot, Pidgeot Draws them 3 Cards at the start of Round",,16.png,,No.O16,17.png,,No.O17,,18.png,No.O18
-1,base2a.png,No.O19,RATTATA,19.png,THE MOUSE POKÉMON,NORMAL,3,3,3,6,mixed.png,self.png,,"At the start of an ally's turn, Rattata may remove 1 Move from the Move Pool, immediately replenish it with the top of the Move deck.",,,19.png,No.O19,,,,20.png,,No.O2O
-1,base2c.png,No.O2O,RATICATE,20.png,THE MOUSE POKÉMON,NORMAL,5,5,5,8,mixed.png,self.png,,"At the start of an ally's turn, Raticate may remove up to 3 Moves from the Move Pool, immediately replenish them with the top of the Move deck.",,19.png,,No.O19,,,,,20.png,No.O2O
-1,base2a.png,No.O21,SPEAROW,21.png,THE TINY BIRD POKÉMON,FLYING,3,4,2,6,mixed.png,ally.png,,"At the start of Round, an ally may discard 1 card, if they do, Spearow Draws 1",,,21.png,No.O21,,,,22.png,,No.O22
-1,base2c.png,No.O22,FEAROW,22.png,THE BEAK POKÉMON,FLYING,6,6,5,8,mixed.png,ally.png,,"At the start of Round an ally may discard X cards, then Fearow Draws X",,21.png,,No.O21,,,,,22.png,No.O22
-1,base2a.png,No.O23,EKANS,23.png,THE SNAKE POKÉMON,POISON,3,4,4,4,,,,,,,23.png,No.O23,,,,24.png,,No.O24
-1,base2c.png,No.O24,ARBOK,24.png,THE COBRA POKÉMON,POISON,5,6,6,7,,,,,,23.png,,No.O23,,,,,24.png,No.O24
-1,base2a.png,No.O25,PIKACHU,25.png,THE MOUSE POKÉMON,ELECTRIC,3,4,4,7,,,,,,,25.png,No.O25,,,,26.png,,No.O26
-1,base2c.png,No.O26,RAICHU,26.png,THE MOUSE POKÉMON,ELECTRIC,5,7,6,9,,,,,,25.png,,No.O25,,,,,26.png,No.O26
-1,base2a.png,No.O27,SANDSHREW,27.png,THE MOUSE POKÉMON,GROUND,4,4,5,3,mixed.png,ally.png,,"At the start of Round, Sandshrew Digs 1. ","*Dig X:* Look at the top X cards, you may Discard any of them instead.",,27.png,No.O27,,,,28.png,,No.O28
-1,base2c.png,No.O28,SANDSLASH,28.png,THE MOUSE POKÉMON,GROUND,6,6,7,5,mixed.png,ally.png,,"At the start of Round, Sandslash Digs 3. 
+1,base3b.png,No.O17,PIDGEOTTO,17.png,THE BIRD POKÉMON,FLYING,7,7,6,7,,,,"If an ally is slower than Pidgeotto, Pidgeotto Draws them 2 Cards at the start of Round",,16.png,,No.O16,,17.png,No.O17,18.png,,No.O18
+1,base2b.png,No.O2O,RATICATE,20.png,THE MOUSE POKÉMON,NORMAL,3,5,3,6,,,,"At the start of an ally's turn, Raticate may remove up to 3 Moves from the Move Pool, immediately replenish them with the top of the Move deck.",,19.png,,No.O19,,,,,20.png,No.O2O
+1,base2b.png,No.O24,ARBOK,24.png,THE COBRA POKÉMON,POISON,5,7,5,8,,,,,,23.png,,No.O23,,,,,24.png,No.O24
+1,base2b.png,No.O28,SANDSLASH,28.png,THE MOUSE POKÉMON,GROUND,4,6,4,5,,,,"At the start of Round, Sandslash Digs 3. 
 ","*Dig X:* Look at the top X cards, you may Discard any of them instead.",27.png,,No.O27,,,,,28.png,No.O28
-1,base3a.png,No.O29,NIDORAN♀,29.png,THE POISON PIN POKÉMON,POISON,5,3,4,3,round.png,ally.png,,Whenever you add a Poison card to the Rival's Deck. Nidoran gives -1 to a die of your choice.,,,29.png,No.O29,30.png,,No.O3O,31.png,,No.O31
-1,base3b.png,No.O3O,NIDORINA,30.png,THE POISON PIN POKÉMON,POISON,6,5,5,4,round.png,ally.png,,Whenever you add a Poison card to the Rival's Deck. Nidorina gives -2 to a die of your choice.,,29.png,,No.O29,,30.png,No.O3O,31.png,,No.O31
-1,base3c.png,No.O31,NIDOQUEEN,31.png,THE DRILL POKÉMON,POISON,7,7,7,6,round.png,ally.png,,Whenever you add a Poison card to the Rival's Deck. Nidoqueen gives -3 to a die of your choice.,,29.png,,No.O29,30.png,,No.O3O,,31.png,No.O31
-1,base3a.png,No.O32,NIDORAN♂,32.png,THE POISON PIN POKÉMON,POISON,4,4,3,4,round.png,ally.png,,Whenever you add a Poison card to the Rival's Deck. Nidoran gives +1 to a die of your choice.,,,32.png,No.O32,33.png,,No.O33,34.png,,No.O34
-1,base3b.png,No.O33,NIDORINO,33.png,THE POISON PIN POKÉMON,POISON,5,5,5,5,round.png,ally.png,,Whenever you add a Poison card to the Rival's Deck. Nidorino gives +2 to a die of your choice.,,32.png,,No.O32,,33.png,No.O33,34.png,,No.O34
-1,base3c.png,No.O34,NIDOKING,34.png,THE DRILL POKÉMON,POISON,7,7,6,7,round.png,ally.png,,Whenever you add a Poison card to the Rival's Deck. Nidoking gives +3 to a die of your choice.,,32.png,,No.O32,33.png,,No.O33,,34.png,No.O34
-1,base2a.png,No.O35,CLEFAIRY,35.png,THE FAIRY POKÉMON,NORMAL,6,4,4,3,turn.png,self.png,,At the start of Clefairy's Turns look at the top card of the Move Deck. It may move it on the bottom instead.,,,35.png,No.O35,,,,36.png,,No.O36
-1,base2c.png,No.O36,CLEFABLE,36.png,THE FAIRY POKÉMON,NORMAL,8,7,6,5,turn.png,self.png,,"At the start of Clefable's Turns look at the top 3 cards of the Move Deck. If it is an item, gain it.",,35.png,,No.O35,,,,,36.png,No.O36
-1,base2a.png,No.O37,VULPIX,37.png,THE FOX POKÉMON,FIRE,3,4,4,5,round.png,ally.png,,Vulpix allows allies to use Burned dice as rolls of 12,,,37.png,No.O37,,,,38.png,,No.O38
-1,base2c.png,No.O38,NINETALES,38.png,THE FOX POKÉMON,FIRE,6,6,7,9,round.png,ally.png,,Ninetales allows allies to use Burned dice as rolls of 6,,37.png,,No.O37,,,,,38.png,No.O38
-1,base2a.png,No.O39,JIGGLYPUFF,39.png,THE BALLOON POKÉMON,NORMAL,9,4,2,2,turn.png,ally.png,,At the start of an ally's turn. Jigglypuff grants them +1 EXP,,,39.png,No.O39,,,,40.png,,No.O4O
-1,base2c.png,No.O4O,WIGGLYTUFF,40.png,THE BALLOON POKÉMON,NORMAL,11,6,4,4,turn.png,ally.png,,At the start of an ally's turn. Wigglytuff grants them +3 EXP,,39.png,,No.O39,,,,,40.png,No.O4O
-1,base2a.png,No.O41,ZUBAT,41.png,THE BAT POKÉMON,POISON,3,3,3,5,,,,,,,41.png,No.O41,,,,42.png,,No.O42
-1,base2c.png,No.O42,GOLBAT,42.png,THE BAT POKÉMON,POISON,6,6,6,7,,,,,,41.png,,No.O41,,,,,42.png,No.O42
-1,base3a.png,No.O43,ODDISH,43.png,THE WEED POKÉMON,GRASS,4,5,5,2,,,,,,,43.png,No.O43,44.png,,No.O44,45.png,,No.O45
-1,base3b.png,No.O44,GLOOM,44.png,THE WEED POKÉMON,GRASS,5,6,6,3,,,,,,43.png,,No.O43,,44.png,No.O44,45.png,,No.O45
-1,base3c.png,No.O45,VILEPLUME,45.png,THE FLOWER POKÉMON,GRASS,6,8,7,4,,,,,,43.png,,No.O43,44.png,,No.O44,,45.png,No.O45
-1,base2a.png,No.O46,PARAS,46.png,THE MUSHROOM POKÉMON,BUG,3,5,4,2,turn.png,ally.png,,"At the start of your turn, Paras may fill out 1 empty slot on your current route",,,46.png,No.O46,,,,47.png,,No.O47
-1,base2c.png,No.O47,PARASECT,47.png,THE MUSHROOM POKÉMON,BUG,5,6,6,3,turn.png,ally.png,,"At the start of your turn, Parasect may fill out empty slots on your current route equal to the number of Bug types you own",,46.png,,No.O46,,,,,47.png,No.O47
-1,base2a.png,No.O48,VENONAT,48.png,THE INSECT POKÉMON,BUG,5,4,4,4,turn.png,ally.png,,"At the start of your turn, Venonat may switch the locations of 2 adjacent wild Pokemon on the same Route.",,,48.png,No.O48,,,,49.png,,No.O49
-1,base2c.png,No.O49,VENOMOTH,49.png,THE POISON MOTH POKÉMON,BUG,6,6,5,8,turn.png,ally.png,,"At the start of your turn, Venomoth may switch the locations of 2 wild Pokemon on the same Route.",,48.png,,No.O48,,,,,49.png,No.O49
-1,base2a.png,No.O5O,DIGLETT,50.png,THE MOLE POKÉMON,GROUND,1,3,3,8,mixed.png,ally.png,,"At the end of Round, Diglett Digs 1. ","*Dig X:* Look at the top X cards, you may Discard any of them instead.",,50.png,No.O5O,,,,51.png,,No.O51
-1,base2c.png,No.O51,DUGTRIO,51.png,THE MOLE POKÉMON,GROUND,3,6,5,1O,mixed.png,ally.png,,"At the end of Round, Dugtrio Digs 3.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",50.png,,No.O5O,,,,,51.png,No.O51
-1,base2a.png,No.O52,MEOWTH,52.png,THE SCRATCH CAT POKÉMON,NORMAL,3,3,3,8,mixed.png,ally.png,,Meowth increases the EXP gained from unused dice by 1,,,52.png,No.O52,,,,53.png,,No.O53
-1,base2c.png,No.O53,PERSIAN,53.png,THE CLASSY CAT POKÉMON,NORMAL,5,5,5,1O,mixed.png,ally.png,,Meowth increases the EXP gained from unused dice by 2,,52.png,,No.O52,,,,,53.png,No.O53
-1,base2a.png,No.O54,PSYDUCK,54.png,THE DUCK POKÉMON,WATER,4,5,4,4,,,,Psyduck may use its allies ATK and DEF instead of its own.,,,54.png,No.O54,,,,55.png,,No.O55
-1,base2c.png,No.O55,GOLDUCK,55.png,THE DUCK POKÉMON,WATER,7,7,6,7,,,,Golduck allows any ally to use another allies' ATK and DEF instead of its own.,,54.png,,No.O54,,,,,55.png,No.O55
-1,base2a.png,No.O56,MANKEY,56.png,THE PIG MONKEY POKÉMON,FIGHTING,3,5,3,6,round.png,self.png,,Mankey increases all allied X values by 1.,,,56.png,No.O56,,,,57.png,,No.O57
-1,base2c.png,No.O57,PRIMEAPE,57.png,THE PIG MONKEY POKÉMON,FIGHTING,5,7,5,8,round.png,self.png,,Mankey increases all allied X values by 2.,,56.png,,No.O56,,,,,57.png,No.O57
-1,base2a.png,No.O58,GROWLITHE,58.png,THE PUPPY POKÉMON,FIRE,4,6,4,5,round.png,ally.png,,"Whenever an ally Burns dice, Growlithe Burns 1 enemy die.",,,58.png,No.O58,,,,59.png,,No.O59
-1,base2c.png,No.O59,ARCANINE,59.png,THE LEGENDARY POKÉMON,FIRE,8,8,6,8,round.png,ally.png,,"Whenever an ally Burns dice, Arcanine Burns an equal number of enemy dice.",,58.png,,No.O58,,,,,59.png,No.O59
-1,base3a.png,No.O6O,POLIWAG,60.png,THE TADPOLE POKÉMON,WATER,3,4,3,8,,,,,,,60.png,No.O6O,61.png,,No.O61,62.png,,No.O62
-1,base3b.png,No.O61,POLIWHIRL,61.png,THE TADPOLE POKÉMON,WATER,5,5,5,7,,,,,,60.png,,No.O6O,,61.png,No.O61,62.png,,No.O62
-1,base3c.png,No.O62,POLIWRATH,62.png,THE TADPOLE POKÉMON,WATER,7,7,7,6,,,,,,60.png,,No.O6O,61.png,,No.O61,,62.png,No.O62
-1,base3a.png,No.O63,ABRA,63.png,THE PSI POKÉMON,PSYCHIC,2,5,3,7,mixed.png,ally.png,,"After rolling dice, Abra may target any 1 die and give it +1 or -1",,,63.png,No.O63,64.png,,No.O64,65.png,,No.O65
-1,base3b.png,No.O64,KADABRA,64.png,THE PSI POKÉMON,PSYCHIC,3,6,4,9,mixed.png,ally.png,,"After rolling dice, Kadabra may target any 1 die and give it +2 or -2",,63.png,,No.O63,,64.png,No.O64,65.png,,No.O65
-1,base3c.png,No.O65,ALAKAZAM,65.png,THE PSI POKÉMON,PSYCHIC,5,7,6,1O,mixed.png,ally.png,,"After rolling dice, Alakazam may target any 1 die and give it +3 or -3",,63.png,,No.O63,64.png,,No.O64,,65.png,No.O65
-1,base3a.png,No.O66,MACHOP,66.png,THE SUPERPOWER POKÉMON,FIGHTING,6,5,3,3,mixed.png,self.png,,"Whenever Machop uses a Fighting type move, it gains +1 ATK till the end of Round.",,,66.png,No.O66,67.png,,No.O67,68.png,,No.O68
-1,base3b.png,No.O67,MACHOKE,67.png,THE SUPERPOWER POKÉMON,FIGHTING,7,6,5,4,mixed.png,self.png,,"Whenever Machoke uses a Fighting type move, it gains +2 ATK till the end of Round.",,66.png,,No.O66,,67.png,No.O67,68.png,,No.O68
-1,base3c.png,No.O68,MACHAMP,68.png,THE SUPERPOWER POKÉMON,FIGHTING,7,8,7,4,mixed.png,self.png,,"Whenever Machamp uses a Fighting type move, it gains +3 ATK till the end of Round.",,66.png,,No.O66,67.png,,No.O67,,68.png,No.O68
-1,base3a.png,No.O69,BELLSPROUT,69.png,THE FLOWER POKÉMON,GRASS,4,6,3,3,,,,,,,69.png,No.O69,70.png,,No.O7O,71.png,,No.O71
-1,base3b.png,No.O7O,WEEPINBELL,70.png,THE FLYCATCHER POKÉMON,GRASS,5,7,4,5,,,,,,69.png,,No.O69,,70.png,No.O7O,71.png,,No.O71
-1,base3c.png,No.O71,VICTREEBEL,71.png,THE FLYCATCHER POKÉMON,GRASS,7,8,5,6,,,,,,69.png,,No.O69,70.png,,No.O7O,,71.png,No.O71
-1,base2a.png,No.O72,TENTACOOL,72.png,THE JELLYFISH POKÉMON,WATER,3,4,5,6,,,,,,,72.png,No.O72,,,,73.png,,No.O73
-1,base2c.png,No.O73,TENTACRUEL,73.png,THE JELLYFISH POKÉMON,WATER,7,6,7,8,,,,,,72.png,,No.O72,,,,,73.png,No.O73
-1,base3a.png,No.O74,GEODUDE,74.png,THE ROCK POKÉMON,ROCK,3,5,5,2,round.png,self.png,,"Geodude may discard dice equal to or lower than its DEF value, to reduce incoming damage by 1.",,,74.png,No.O74,75.png,,No.O75,76.png,,No.O76
-1,base3b.png,No.O75,GRAVELER,75.png,THE ROCK POKÉMON,ROCK,5,6,6,3,round.png,self.png,,"Graveler may discard dice equal to or lower than its DEF value, to reduce incoming damage by 2.",,74.png,,No.O74,,75.png,No.O75,76.png,,No.O76
-1,base3c.png,No.O76,GOLEM,76.png,THE MEGATON POKÉMON,ROCK,6,7,8,4,round.png,self.png,,"Golem may discard dice equal to or lower than its DEF value, to reduce incoming damage by 3.",,74.png,,No.O74,75.png,,No.O75,,76.png,No.O76
-1,base2a.png,No.O77,PONYTA,77.png,THE FIRE HORSE POKÉMON,FIRE,4,6,5,7,round.png,ally.png,,"If you have any Burned dice, Ponyta gives all allies +1 ATK",,,77.png,No.O77,,,,78.png,,No.O78
-1,base2c.png,No.O78,RAPIDASH,78.png,THE FIRE HORSE POKÉMON,FIRE,5,7,6,9,round.png,ally.png,,Rapidash gives all allies +1 ATK for each Burned dice you own,,77.png,,No.O77,,,,,78.png,No.O78
-1,base2a.png,No.O79,SLOWPOKE,79.png,THE DOPEY POKÉMON,WATER PSYCHIC,8,4,4,1,,,,#N/A,,,79.png,No.O79,,,,80.png,,No.O8O
-1,base2c.png,No.O8O,SLOWBRO,80.png,THE HERMIT CRAB POKÉMON,WATER PSYCHIC,8,7,8,2,,,,#N/A,,79.png,,No.O79,,,,,80.png,No.O8O
-1,base2a.png,No.O81,MAGNEMITE,81.png,THE MAGNET POKÉMON,ELECTRIC,2,5,5,4,,,,,,,81.png,No.O81,,,,82.png,,No.O82
-1,base2c.png,No.O82,MAGNETON,82.png,THE MAGNET POKÉMON,ELECTRIC,4,7,7,6,,,,,,81.png,,No.O81,,,,,82.png,No.O82
-1,base1.png,No.O83,FARFETCH'D,83.png,THE WILD DUCK POKÉMON,NORMAL,4,6,5,5,turn.png,self.png,,"At the end of Farfetch'd's Turn, it may swap the positions of 2 allied Pokemon (Farfetch'd cannot target itself with this ability)",,,,,,83.png,No.O83,,,
-1,base2a.png,No.O84,DODUO,84.png,THE TWIN BIRD POKÉMON,FLYING,3,5,3,6,turn.png,ally.png,,You may roll 2 Movement dice instead of 1. You pick which result you would like to use.,,,84.png,No.O84,,,,85.png,,No.O85
-1,base2c.png,No.O85,DODRIO,85.png,THE TRIPLE BIRD POKÉMON,FLYING,5,7,5,9,turn.png,ally.png,,You may roll 3 Movement dice instead of 1. You pick which result you would like to use.,,84.png,,No.O84,,,,,85.png,No.O85
-1,base2a.png,No.O86,SEEL,86.png,THE SEA LION POKÉMON,ICE,5,4,5,4,round.png,ally.png,,"At the start of each Round, Seel Freezes 1 ally die.",,,86.png,No.O86,,,,87.png,,No.O87
-1,base2c.png,No.O87,DEWGONG,87.png,THE SEA LION POKÉMON,ICE,7,6,7,6,round.png,ally.png,,"At the start of each Round, Dewgong Freezes 3 ally dice.",,86.png,,No.O86,,,,,87.png,No.O87
-1,base2a.png,No.O88,GRIMER,88.png,THE SLUDGE POKÉMON,POISON,7,5,4,2,round.png,ally.png,,Whenever you add Poison cards to the Rival's Deck. Grimer recovers 1 HP to all allies.,,,88.png,No.O88,,,,89.png,,No.O89
-1,base2c.png,No.O89,MUK,89.png,THE SLUDGE POKÉMON,POISON,9,7,7,4,round.png,ally.png,,Whenever you add Poison cards to the Rival's Deck. Muk recovers HP to all allies equal to the number of Poison cards added.,,88.png,,No.O88,,,,,89.png,No.O89
-1,base2a.png,No.O9O,SHELLDER,90.png,THE BIVALVE POKÉMON,ICE,3,4,5,3,,,,,,,90.png,No.O9O,,,,91.png,,No.O91
-1,base2c.png,No.O91,CLOYSTER,91.png,THE BIVALVE POKÉMON,ICE,4,7,9,6,,,,,,90.png,,No.O9O,,,,,91.png,No.O91
-1,base3a.png,No.O92,GASTLY,92.png,THE GAS POKÉMON,GHOST,2,5,3,7,round.png,ally.png,,"At the start of Round, Gastly forcing Rival to Discard 1 Card.",,,92.png,No.O92,93.png,,No.O93,94.png,,No.O94
-1,base3b.png,No.O93,HAUNTER,93.png,THE GAS POKÉMON,GHOST,4,6,4,8,round.png,ally.png,,"At the start of Round, Haunter forcing Rival to Discard 2 Cards.",,92.png,,No.O92,,93.png,No.O93,94.png,,No.O94
-1,base3c.png,No.O94,GENGAR,94.png,THE SHADOW POKÉMON,GHOST,5,8,5,9,round.png,ally.png,,"At the start of Round, Haunter forcing Rival to Discard 3 Cards.",,92.png,,No.O92,93.png,,No.O93,,94.png,No.O94
-1,base1.png,No.O95,ONIX,95.png,THE ROCK SNAKE POKÉMON,ROCK,3,3,8,6,round.png,ally.png,,Whenever an ally is at full HP and would be reduced to O. Onix leaves them at 1 HP instead.,,,,,,95.png,No.O95,,,
-1,base2a.png,No.O96,DROWZEE,96.png,THE HYPNOSIS POKÉMON,PSYCHIC,5,4,5,4,round.png,ally.png,,"After rolling dice, Drowzee may re-roll any 1 allied die.",,,96.png,No.O96,,,,97.png,,No.O97
-1,base2c.png,No.O97,HYPNO,97.png,THE HYPNOSIS POKÉMON,PSYCHIC,7,6,7,6,round.png,ally.png,,"After rolling dice, Hypno may re-roll any number of allied dice",,96.png,,No.O96,,,,,97.png,No.O97
-1,base2a.png,No.O98,KRABBY,98.png,THE RIVER CRAB POKÉMON,WATER,2,5,5,4,,,,"The first time a die enters an ally's Defense Zone, Krabby grants all allies +1 ATK.",,,98.png,No.O98,,,,99.png,,No.O99
-1,base2c.png,No.O99,KINGLER,99.png,THE PINCER POKÉMON,WATER,5,7,7,6,,,,"Whenever a die enters an ally's Defense Zone, Kingler grants all allies +1 ATK.",,98.png,,No.O98,,,,,99.png,No.O99
-1,base2a.png,No.1OO,VOLTORB,100.png,THE BALL POKÉMON,ELECTRIC,3,4,4,8,,,,,,,100.png,No.1OO,,,,101.png,,No.1O1
-1,base2c.png,No.1O1,ELECTRODE,101.png,THE BALL POKÉMON,ELECTRIC,5,5,6,13,,,,,,100.png,,No.1OO,,,,,101.png,No.1O1
-1,base2a.png,No.1O2,EXEGGCUTE,102.png,THE EGG POKÉMON,GRASS PSYCHIC,5,4,5,3,,,,#N/A,,,102.png,No.1O2,,,,103.png,,No.1O3
-1,base2c.png,No.1O3,EXEGGUTOR,103.png,THE COCONUT POKÉMON,GRASS PSYCHIC,8,9,6,5,,,,#N/A,,102.png,,No.1O2,,,,,103.png,No.1O3
-1,base2a.png,No.1O4,CUBONE,104.png,THE LONELY POKÉMON,GROUND,4,3,6,3,round.png,ally.png,,"The first time an ally performs a Move, Cubone may place the used card back on top of the deck, rather than discard it.",,,104.png,No.1O4,,,,105.png,,No.1O5
-1,base2c.png,No.1O5,MAROWAK,105.png,THE BONE KEEPER POKÉMON,GROUND,5,5,8,4,round.png,ally.png,,"The first time an ally performs a Move, Marowak may take any card from the discard pile, and place it on top of the deck.",,104.png,,No.1O4,,,,,105.png,No.1O5
-1,base1.png,No.1O6,HITMONLEE,106.png,THE KICKING POKÉMON,FIGHTING,4,6,7,7,round.png,self.png,,"Whenever Hitmonlee uses a move containing the word 'Kick', repeat it.",,,,,,106.png,No.1O6,,,
-1,base1.png,No.1O7,HITMONCHAN,107.png,THE PUNCHING POKÉMON,FIGHTING,4,6,8,6,round.png,self.png,,"Whenever Hitmonchan uses a move containing the word 'Punch', repeat it.",,,,,,107.png,No.1O7,,,
-1,base1.png,No.1O8,LICKITUNG,108.png,THE LICKING POKÉMON,NORMAL,8,5,6,3,turn.png,ally.png,,"Instead of Moving this turn, Lickitung allows you to Encounter your current space instead.",,,,,,108.png,No.1O8,,,
-1,base2a.png,No.1O9,KOFFING,109.png,THE POISON GAS POKÉMON,POISON,3,5,6,3,round.png,ally.png,,Whenever you add Poison cards to the Rival's Deck. Koffing deals 1 damage.,,,109.png,No.1O9,,,,110.png,,No.11O
-1,base2c.png,No.11O,WEEZING,110.png,THE POISON GAS POKÉMON,POISON,5,7,8,5,round.png,ally.png,,Whenever you add Poison cards to the Rival's Deck. Weezing deals damage equal to the number of Poison cards added.,,109.png,,No.1O9,,,,,110.png,No.11O
-1,base2a.png,No.111,RHYHORN,111.png,THE SPIKES POKÉMON,GROUND,7,4,5,2,mixed.png,ally.png,,"Whenever you Dig, Rhyhorn Draws 1 Card.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",,111.png,No.111,,,,112.png,,No.112
-1,base2c.png,No.112,RHYDON,112.png,THE DRILL POKÉMON,GROUND,9,7,7,3,mixed.png,ally.png,,"Whenever you Dig, Rhydon Draws Cards equal to the Digging value.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",111.png,,No.111,,,,,112.png,No.112
-1,base1.png,No.113,CHANSEY,113.png,THE EGG POKÉMON,NORMAL,21,2,4,4,,,,"At the start of an ally's turn, you may learn a new move disregarding cost",,,,,,113.png,No.113,,,
-1,base1.png,No.114,TANGELA,114.png,THE VINE POKÉMON,GRASS,6,6,6,5,mixed.png,ally.png,,Tangela increase all Healing to allies by 1.,,,,,,114.png,No.114,,,
-1,base1.png,No.115,KANGASKHAN,115.png,THE PARENT POKÉMON,NORMAL,9,5,6,8,,,,,,,,,,115.png,No.115,,,
-1,base2a.png,No.116,HORSEA,116.png,THE DRAGON POKÉMON,WATER,3,4,4,5,,,,"The first time an ally loses HP, Horsea draws 1.",,,116.png,No.116,,,,117.png,,No.117
-1,base2c.png,No.117,SEADRA,117.png,THE DRAGON POKÉMON,WATER,5,6,6,7,,,,"Whenever an ally loses HP, Seadra draws 1.",,116.png,,No.116,,,,,117.png,No.117
-1,base2a.png,No.118,GOLDEEN,118.png,THE GOLDFISH POKÉMON,WATER,4,4,4,5,,,,"The first time a die enters an ally's Attack Zone, Goldeen grants all allies +1 DEF.",,,118.png,No.118,,,,119.png,,No.119
-1,base2c.png,No.119,SEAKING,119.png,THE GOLDFISH POKÉMON,WATER,7,6,6,6,,,,"Whenever a die enters an ally's Attack Zone, Seaking grants all allies +1 DEF.",,118.png,,No.118,,,,,119.png,No.119
-1,base2a.png,No.12O,STARYU,120.png,THE STAR SHAPE POKÉMON,WATER,3,5,4,7,,,,,,,120.png,No.12O,,,,121.png,,No.121
-1,base2c.png,No.121,STARMIE,121.png,THE MYSTERIOUS POKÉMON,WATER,5,7,7,9,,,,,,120.png,,No.12O,,,,,121.png,No.121
-1,base1.png,No.122,MR. MIME,122.png,THE BARRIER POKÉMON,PSYCHIC,3,6,7,8,mixed.png,ally.png,,"Mr. Mime forces all 1's to become 12's, and 12's become 1's.",,,,,,122.png,No.122,,,
-1,base1.png,No.123,SCYTHER,123.png,THE MANTIS POKÉMON,BUG,6,7,6,9,mixed.png,self.png,,All bonuses from Bug type Pokemon are doubled on Scyther.,,,,,,123.png,No.123,,,
-1,base1.png,No.124,JYNX,124.png,THE HUMAN SHAPE POKÉMON,ICE,5,7,5,8,,,,,,,,,,124.png,No.124,,,
-1,base1.png,No.125,ELECTABUZZ,125.png,THE ELECTRIC POKÉMON,ELECTRIC,5,7,6,9,,,,,,,,,,125.png,No.125,,,
-1,base1.png,No.126,MAGMAR,126.png,THE SPITFIRE POKÉMON,FIRE,5,8,6,8,,,,,,,,,,126.png,No.126,,,
-1,base1.png,No.127,PINSIR,127.png,THE STAG BEETLE POKÉMON,BUG,6,7,7,7,mixed.png,ally.png,,"Pinsir gives allies Damage bonus equal to number of Bug type Pokemon owned.
+1,base3b.png,No.O3O,NIDORINA,30.png,THE POISON PIN POKÉMON,POISON,8,8,6,8,,,,Whenever you add a Poison card to the Rival's Deck. Nidorina gives -2 to a die of your choice.,,29.png,,No.O29,,30.png,No.O3O,31.png,,No.O31
+1,base3b.png,No.O33,NIDORINO,33.png,THE POISON PIN POKÉMON,POISON,3,4,3,8,,,,Whenever you add a Poison card to the Rival's Deck. Nidorino gives +2 to a die of your choice.,,32.png,,No.O32,,33.png,No.O33,34.png,,No.O34
+1,base3b.png,No.O44,GLOOM,44.png,THE WEED POKÉMON,GRASS,5,5,5,7,,,,,,43.png,,No.O43,,44.png,No.O44,45.png,,No.O45
+1,base2b.png,No.O47,PARASECT,47.png,THE MUSHROOM POKÉMON,BUG,7,7,7,6,,,,"At the start of your turn, Parasect may fill out empty slots on your current route equal to the number of Bug types you own",,46.png,,No.O46,,,,,47.png,No.O47
+1,base2b.png,No.O51,DUGTRIO,51.png,THE MOLE POKÉMON,GROUND,2,5,3,7,,,,"At the end of Round, Dugtrio Digs 3.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",50.png,,No.O5O,,,,,51.png,No.O51
+1,base3b.png,No.O61,POLIWHIRL,61.png,THE TADPOLE POKÉMON,WATER,3,6,4,9,,,,,,60.png,,No.O6O,,61.png,No.O61,62.png,,No.O62
+1,base3b.png,No.O64,KADABRA,64.png,THE PSI POKÉMON,PSYCHIC,5,7,6,1O,,,,"After rolling dice, Kadabra may target any 1 die and give it +2 or -2",,63.png,,No.O63,,64.png,No.O64,65.png,,No.O65
+1,base3b.png,No.O67,MACHOKE,67.png,THE SUPERPOWER POKÉMON,FIGHTING,6,5,3,3,,,,"Whenever Machoke uses a Fighting type move, it gains +2 ATK till the end of Round.",,66.png,,No.O66,,67.png,No.O67,68.png,,No.O68
+1,base3b.png,No.O7O,WEEPINBELL,70.png,THE FLYCATCHER POKÉMON,GRASS,7,6,5,4,,,,,,69.png,,No.O69,,70.png,No.O7O,71.png,,No.O71
+1,base3b.png,No.O75,GRAVELER,75.png,THE ROCK POKÉMON,ROCK,7,8,7,4,,,,"Graveler may discard dice equal to or lower than its DEF value, to reduce incoming damage by 2.",,74.png,,No.O74,,75.png,No.O75,76.png,,No.O76
+1,base2a.png,No.O77,PONYTA,77.png,THE FIRE HORSE POKÉMON,FIRE,4,6,3,3,,,,"If you have any Burned dice, Ponyta gives all allies +1 ATK",*Burned die:* Burned dice will not be rolled the next round,,77.png,No.O77,,,,78.png,,No.O78
+1,base2b.png,No.O82,MAGNETON,82.png,THE MAGNET POKÉMON,ELECTRIC,5,7,4,5,,,,,,81.png,,No.O81,,,,,82.png,No.O82
+1,base1.png,No.O83,FARFETCH'D,83.png,THE WILD DUCK POKÉMON,NORMAL,7,8,5,6,,,,"At the end of Farfetch'd's Turn, it may swap the positions of 2 allied Pokemon (Farfetch'd cannot target itself with this ability)",,,,,,83.png,No.O83,,,
+1,base3b.png,No.O93,HAUNTER,93.png,THE GAS POKÉMON,GHOST,3,4,5,6,,,,"At the start of Round, Haunter forcing Rival to Discard 2 Cards.",,92.png,,No.O92,,93.png,No.O93,94.png,,No.O94
+1,base1.png,No.O95,ONIX,95.png,THE ROCK SNAKE POKÉMON,ROCK,7,6,7,8,,,,Whenever an ally is at full HP and would be reduced to O. Onix leaves them at 1 HP instead.,,,,,,95.png,No.O95,,,
+1,base2b.png,No.1O5,MAROWAK,105.png,THE BONE KEEPER POKÉMON,GROUND,3,5,5,2,,,,"The first time an ally performs a Move, Marowak may take any card from the discard pile, and place it on top of the deck.",,104.png,,No.1O4,,,,,105.png,No.1O5
+1,base1.png,No.1O6,HITMONLEE,106.png,THE KICKING POKÉMON,FIGHTING,5,6,6,3,,,,"Whenever Hitmonlee uses a move containing the word 'Kick', repeat it.",,,,,,106.png,No.1O6,,,
+1,base1.png,No.1O7,HITMONCHAN,107.png,THE PUNCHING POKÉMON,FIGHTING,6,7,8,4,,,,"Whenever Hitmonchan uses a move containing the word 'Punch', repeat it.",,,,,,107.png,No.1O7,,,
+1,base1.png,No.1O8,LICKITUNG,108.png,THE LICKING POKÉMON,NORMAL,4,6,5,7,,,,"Instead of Moving this turn, Lickitung allows you to Encounter your current space instead.",,,,,,108.png,No.1O8,,,
+1,base1.png,No.114,TANGELA,114.png,THE VINE POKÉMON,GRASS,5,7,6,9,,,,,,,,,,114.png,No.114,,,
+1,base2b.png,No.117,SEADRA,117.png,THE DRAGON POKÉMON,WATER,8,4,4,1,,,,"Whenever a die enters an ally's Attack Zone, Seaking grants all allies +1 DEF.",,116.png,,No.116,,,,,117.png,No.117
+1,base1.png,No.122,MR. MIME,122.png,THE BARRIER POKÉMON,PSYCHIC,8,7,8,2,,,,"Mr. Mime forces all 1's to become 12's, and 12's become 1's.",,,,,,122.png,No.122,,,
+1,base3c.png,No.OO3,VENUSAUR,3.png,THE SEED POKÉMON,GRASS,2,5,5,4,,,,"At the end of each Round, Venusaur Recovers 3 HP to all allies",,1.png,,No.OO1,2.png,,No.OO2,,3.png,No.OO3
+1,base3c.png,No.OO6,CHARIZARD,6.png,THE FLAME POKÉMON,FIRE,4,7,7,6,,,,Charizard gets +3 ATK for every Burned die it has.,*Burned die:* Burned dice will not be rolled the next round,4.png,,No.OO4,5.png,,No.OO5,,6.png,No.OO6
+1,base3c.png,No.OO9,BLASTOISE,9.png,THE SHELLFISH POKÉMON,WATER,4,6,5,5,,,,"Immediately before Attacking, Blastoise may move any 3 ally dice from the Defense Zone to the Attack Zone or vice versa regardless of stats.",,7.png,,No.OO7,8.png,,No.OO8,,9.png,No.OO9
+1,base3c.png,No.O18,PIDGEOT,18.png,THE BIRD POKÉMON,FLYING,3,5,3,6,,,,"If an ally is slower than Pidgeot, Pidgeot Draws them 3 Cards at the start of Round",,16.png,,No.O16,17.png,,No.O17,,18.png,No.O18
+1,base2b.png,No.O22,FEAROW,22.png,THE BEAK POKÉMON,FLYING,5,7,5,9,,,,"At the start of Round an ally may discard X cards, then Fearow Draws X",,21.png,,No.O21,,,,,22.png,No.O22
+1,base2b.png,No.O26,RAICHU,26.png,THE MOUSE POKÉMON,ELECTRIC,5,4,5,4,,,,,,25.png,,No.O25,,,,,26.png,No.O26
+1,base3c.png,No.O31,NIDOQUEEN,31.png,THE DRILL POKÉMON,POISON,7,6,7,6,,,,Whenever you add a Poison card to the Rival's Deck. Nidoqueen gives -3 to a die of your choice.,,29.png,,No.O29,30.png,,No.O3O,,31.png,No.O31
+1,base3c.png,No.O34,NIDOKING,34.png,THE DRILL POKÉMON,POISON,7,5,4,2,,,,Whenever you add a Poison card to the Rival's Deck. Nidoking gives +3 to a die of your choice.,,32.png,,No.O32,33.png,,No.O33,,34.png,No.O34
+1,base2b.png,No.O36,CLEFABLE,36.png,THE FAIRY POKÉMON,NORMAL,9,7,7,4,,,,"At the start of Clefable's Turns look at the top 3 cards of the Move Deck. If it is an item, gain it.",,35.png,,No.O35,,,,,36.png,No.O36
+1,base2b.png,No.O38,NINETALES,38.png,THE FOX POKÉMON,FIRE,3,4,5,3,,,,Ninetales allows allies to use Burned dice as rolls of 6,*Burned die:* Burned dice will not be rolled the next round,37.png,,No.O37,,,,,38.png,No.O38
+1,base2b.png,No.O4O,WIGGLYTUFF,40.png,THE BALLOON POKÉMON,NORMAL,4,7,9,6,,,,At the start of an ally's turn. Wigglytuff grants them +3 EXP,,39.png,,No.O39,,,,,40.png,No.O4O
+1,base2b.png,No.O42,GOLBAT,42.png,THE BAT POKÉMON,POISON,2,5,3,7,,,,,,41.png,,No.O41,,,,,42.png,No.O42
+1,base3c.png,No.O45,VILEPLUME,45.png,THE FLOWER POKÉMON,GRASS,4,6,4,8,,,,,,43.png,,No.O43,44.png,,No.O44,,45.png,No.O45
+1,base2b.png,No.O49,VENOMOTH,49.png,THE POISON MOTH POKÉMON,BUG,5,8,5,9,,,,"At the start of your turn, Venomoth may switch the locations of 2 wild Pokemon on the same Route.",,48.png,,No.O48,,,,,49.png,No.O49
+1,base2b.png,No.O53,PERSIAN,53.png,THE CLASSY CAT POKÉMON,NORMAL,3,3,8,6,,,,Meowth increases the EXP gained from unused dice by 2,,52.png,,No.O52,,,,,53.png,No.O53
+1,base2b.png,No.O55,GOLDUCK,55.png,THE DUCK POKÉMON,WATER,5,4,5,4,,,,Golduck allows any ally to use another allies' ATK and DEF instead of its own.,,54.png,,No.O54,,,,,55.png,No.O55
+1,base2b.png,No.O57,PRIMEAPE,57.png,THE PIG MONKEY POKÉMON,FIGHTING,7,6,7,6,,,,Mankey increases all allied X values by 2.,,56.png,,No.O56,,,,,57.png,No.O57
+1,base2b.png,No.O59,ARCANINE,59.png,THE LEGENDARY POKÉMON,FIRE,2,5,5,4,,,,"Whenever an ally Burns dice, Arcanine Burns an equal number of enemy dice.",*Burned die:* Burned dice will not be rolled the next round,58.png,,No.O58,,,,,59.png,No.O59
+1,base3c.png,No.O62,POLIWRATH,62.png,THE TADPOLE POKÉMON,WATER,5,7,7,6,,,,,,60.png,,No.O6O,61.png,,No.O61,,62.png,No.O62
+1,base3c.png,No.O65,ALAKAZAM,65.png,THE PSI POKÉMON,PSYCHIC,3,4,4,8,,,,"After rolling dice, Alakazam may target any 1 die and give it +3 or -3",,63.png,,No.O63,64.png,,No.O64,,65.png,No.O65
+1,base3c.png,No.O68,MACHAMP,68.png,THE SUPERPOWER POKÉMON,FIGHTING,5,5,6,13,,,,"Whenever Machamp uses a Fighting type move, it gains +3 ATK till the end of Round.",,66.png,,No.O66,67.png,,No.O67,,68.png,No.O68
+1,base3c.png,No.O71,VICTREEBEL,71.png,THE FLYCATCHER POKÉMON,GRASS,5,4,5,3,,,,,,69.png,,No.O69,70.png,,No.O7O,,71.png,No.O71
+1,base2b.png,No.O73,TENTACRUEL,73.png,THE JELLYFISH POKÉMON,WATER,8,9,6,5,,,,,,72.png,,No.O72,,,,,73.png,No.O73
+1,base3c.png,No.O76,GOLEM,76.png,THE MEGATON POKÉMON,ROCK,4,3,6,3,,,,"Golem may discard dice equal to or lower than its DEF value, to reduce incoming damage by 3.",,74.png,,No.O74,75.png,,No.O75,,76.png,No.O76
+1,base2b.png,No.O78,RAPIDASH,78.png,THE FIRE HORSE POKÉMON,FIRE,5,5,8,4,,,,Rapidash gives all allies +1 ATK for each Burned dice you own,*Burned die:* Burned dice will not be rolled the next round,77.png,,No.O77,,,,,78.png,No.O78
+1,base2b.png,No.O8O,SLOWBRO,80.png,THE HERMIT CRAB POKÉMON,WATER,4,6,7,7,,,,"Whenever a die enters an ally's Defense Zone, Kingler grants all allies +1 ATK.",,79.png,,No.O79,,,,,80.png,No.O8O
+1,base2b.png,No.O85,DODRIO,85.png,THE TRIPLE BIRD POKÉMON,FLYING,4,6,8,6,,,,You may roll 3 Movement dice instead of 1. You pick which result you would like to use.,,84.png,,No.O84,,,,,85.png,No.O85
+1,base2b.png,No.O87,DEWGONG,87.png,THE SEA LION POKÉMON,ICE,8,5,6,3,,,,"At the start of each Round, Dewgong Freezes 3 ally dice.",,86.png,,No.O86,,,,,87.png,No.O87
+1,base2b.png,No.O89,MUK,89.png,THE SLUDGE POKÉMON,POISON,3,5,6,3,,,,Whenever you add Poison cards to the Rival's Deck. Muk recovers HP to all allies equal to the number of Poison cards added.,,88.png,,No.O88,,,,,89.png,No.O89
+1,base2b.png,No.O91,CLOYSTER,91.png,THE BIVALVE POKÉMON,ICE,5,7,8,5,,,,,,90.png,,No.O9O,,,,,91.png,No.O91
+1,base3c.png,No.O94,GENGAR,94.png,THE SHADOW POKÉMON,GHOST,7,4,5,2,,,,"At the start of Round, Haunter forcing Rival to Discard 3 Cards.",,92.png,,No.O92,93.png,,No.O93,,94.png,No.O94
+1,base2b.png,No.O97,HYPNO,97.png,THE HYPNOSIS POKÉMON,PSYCHIC,9,7,7,3,,,,"After rolling dice, Hypno may re-roll any number of allied dice",,96.png,,No.O96,,,,,97.png,No.O97
+1,base2b.png,No.O99,KINGLER,99.png,THE PINCER POKÉMON,WATER,21,2,4,4,,,,"Whenever an ally loses HP, Seadra draws 1.",,98.png,,No.O98,,,,,99.png,No.O99
+1,base2b.png,No.1O1,ELECTRODE,101.png,THE BALL POKÉMON,ELECTRIC,6,6,6,5,,,,,,100.png,,No.1OO,,,,,101.png,No.1O1
+1,base2b.png,No.11O,WEEZING,110.png,THE POISON GAS POKÉMON,POISON,9,5,6,8,,,,Whenever you add Poison cards to the Rival's Deck. Weezing deals damage equal to the number of Poison cards added.,,109.png,,No.1O9,,,,,110.png,No.11O
+1,base2b.png,No.119,SEAKING,119.png,THE GOLDFISH POKÉMON,WATER,3,4,4,5,,,,,,118.png,,No.118,,,,,119.png,No.119
+1,base2b.png,No.121,STARMIE,121.png,THE MYSTERIOUS POKÉMON,WATER,5,6,6,7,,,,,,120.png,,No.12O,,,,,121.png,No.121
+1,base1.png,No.124,JYNX,124.png,THE HUMAN SHAPE POKÉMON,ICE,4,4,4,5,,,,,,,,,,124.png,No.124,,,
+1,base1.png,No.125,ELECTABUZZ,125.png,THE ELECTRIC POKÉMON,ELECTRIC,7,6,6,6,,,,,,,,,,125.png,No.125,,,
+1,base1.png,No.126,MAGMAR,126.png,THE SPITFIRE POKÉMON,FIRE,3,5,4,7,,,,,,,,,,126.png,No.126,,,
+1,base2b.png,No.13O,GYARADOS,130.png,THE ATROCIOUS POKÉMON,WATER,5,7,7,9,,,,,,129.png,,No.129,,,,,130.png,No.13O
+1,base1.png,No.131,LAPRAS,131.png,THE TRANSPORT POKÉMON,ICE,3,6,7,8,,,,"At the start of Turn, Lapras may ferry you to any Town instead of moving",,,,,,131.png,No.131,,,
+1,base1.png,No.134,VAPOREON,134.png,THE BUBBLE JET POKÉMON,WATER,6,7,6,9,,,,,,,,,,134.png,No.134,,,
+1,base1.png,No.135,JOLTEON,135.png,THE LIGHTNING POKÉMON,ELECTRIC,5,7,5,8,,,,,,,,,,135.png,No.135,,,
+1,base1.png,No.136,FLAREON,136.png,THE FLAME POKÉMON,FIRE,5,7,6,9,,,,,,,,,,136.png,No.136,,,
+1,base1.png,No.143,SNORLAX,143.png,THE SLEEPING POKÉMON,NORMAL,5,8,6,8,,,,"At the end of Snorlax's turn, you may Forget 1 Move.",,,,,,143.png,No.143,,,
+1,base1.png,No.113,CHANSEY,113.png,THE EGG POKÉMON,NORMAL,6,7,7,7,,,,"At the start of an ally's turn, you may learn a new move disregarding cost",,,,,,113.png,No.113,,,
+1,base1.png,No.123,SCYTHER,123.png,THE MANTIS POKÉMON,BUG,6,6,7,9,,,,All bonuses from Bug type Pokemon are doubled on Scyther.,,,,,,123.png,No.123,,,
+1,base1.png,No.127,PINSIR,127.png,THE STAG BEETLE POKÉMON,BUG,1,1,3,7,,,,"Pinsir gives allies Damage bonus equal to number of Bug type Pokemon owned.
 ",,,,,,127.png,No.127,,,
-1,base1.png,No.128,TAUROS,128.png,THE WILD BULL POKÉMON,NORMAL,6,6,7,9,,,,Tauros removes your hand size limit,,,,,,128.png,No.128,,,
-1,base2a.png,No.129,MAGIKARP,129.png,THE FISH POKÉMON,WATER,1,1,3,7,,,,,,,129.png,No.129,,,,130.png,,No.13O
-1,base2c.png,No.13O,GYARADOS,130.png,THE ATROCIOUS POKÉMON,WATER,8,7,7,7,,,,,,129.png,,No.129,,,,,130.png,No.13O
-1,base1.png,No.131,LAPRAS,131.png,THE TRANSPORT POKÉMON,ICE,11,7,7,5,turn.png,ally.png,,"At the start of Turn, Lapras may ferry you to any Town instead of moving",,,,,,131.png,No.131,,,
-1,base1.png,No.132,DITTO,132.png,THE TRANSFORM POKÉMON,NORMAL,4,4,4,4,,,,"Whenever Ditto is sent into battle, you may put another Pokemon you own in its place.",,,,,,132.png,No.132,,,
-1,base1.png,No.133,EEVEE,133.png,THE EVOLUTION POKÉMON,NORMAL,5,4,5,5,,,,Eevee evolves if you encounter the Lost Eevee! Event.,,,,,,133.png,No.133,,,
-1,base1.png,No.134,VAPOREON,134.png,THE BUBBLE JET POKÉMON,WATER,11,7,6,5,,,,,,,,,,134.png,No.134,,,
-1,base1.png,No.135,JOLTEON,135.png,THE LIGHTNING POKÉMON,ELECTRIC,5,7,6,11,,,,,,,,,,135.png,No.135,,,
-1,base1.png,No.136,FLAREON,136.png,THE FLAME POKÉMON,FIRE,6,9,7,6,,,,,,,,,,136.png,No.136,,,
-1,base1.png,No.137,PORYGON,137.png,THE VIRTUAL POKÉMON,NORMAL,5,6,6,3,round.png,self.png,,"At the start of the turn, you may switch Porygon's typing to a Type of your choosing.",,,,,,137.png,No.137,,,
-1,base2a.png,No.138,OMANYTE,138.png,THE SPIRAL POKÉMON,ROCK,3,5,6,3,,,,Whenever an ally gains ATK. Omanyte grants them +1 DEF until the end of Round.,,,138.png,No.138,,,,139.png,,No.139
-1,base2c.png,No.139,OMASTAR,139.png,THE SPIRAL POKÉMON,ROCK,6,7,8,4,,,,Whenever an ally gains ATK. Omastar grants them equal DEF until the end of Round.,,138.png,,No.138,,,,,139.png,No.139
-1,base2a.png,No.14O,KABUTO,140.png,THE SHELLFISH POKÉMON,ROCK,3,5,5,5,,,,Whenever an ally gains DEF. Kabuto grants them +1 ATK until the end of Round.,,,140.png,No.14O,,,,141.png,,No.141
-1,base2c.png,No.141,KABUTOPS,141.png,THE SHELLFISH POKÉMON,ROCK,5,7,7,7,,,,"Whenever an ally gains DEF. Kabutops grants them equal ATK until the end of Round.
-",,140.png,,No.14O,,,,,141.png,No.141
-1,base1.png,No.142,AERODACTYL,142.png,THE FOSSIL POKÉMON,ROCK,7,7,6,11,,,,,,,,,,142.png,No.142,,,
-1,base1.png,No.143,SNORLAX,143.png,THE SLEEPING POKÉMON,NORMAL,13,7,7,3,,,,"At the end of Snorlax's turn, you may Forget 1 Move.",,,,,,143.png,No.143,,,
-1,base1.png,No.144,ARTICUNO,144.png,THE FREEZE POKÉMON,ICE,8,7,9,7,mixed.png,ally.png,,"Articuno doubles all allies' DEF.
+1,base1.png,No.128,TAUROS,128.png,THE WILD BULL POKÉMON,NORMAL,8,7,7,7,,,,Tauros removes your hand size limit,,,,,,128.png,No.128,,,
+1,base2a.png,No.111,RHYHORN,111.png,THE SPIKES POKÉMON,GROUND,11,7,7,5,,,,"Whenever you Dig, Rhyhorn Draws 1 Card.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",,111.png,No.111,,,,112.png,,No.112
+1,base2b.png,No.112,RHYDON,112.png,THE DRILL POKÉMON,GROUND,4,4,4,4,,,,"Whenever you Dig, Rhydon Draws Cards equal to the Digging value.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",111.png,,No.111,,,,,112.png,No.112
+1,base1.png,No.115,KANGASKHAN,115.png,THE PARENT POKÉMON,NORMAL,5,4,5,5,,,,,,,,,,115.png,No.115,,,
+1,base2a.png,No.1O2,EXEGGCUTE,102.png,THE EGG POKÉMON,GRASS,11,7,6,5,,,,Tangela increase all Healing to allies by 1.,,,102.png,No.1O2,,,,103.png,,No.1O3
+1,base2b.png,No.1O3,EXEGGUTOR,103.png,THE COCONUT POKÉMON,GRASS,5,7,6,11,,,,,,102.png,,No.1O2,,,,,103.png,No.1O3
+1,base3a.png,No.147,DRATINI,147.png,THE DRAGON POKÉMON,DRAGON,6,9,7,6,,,,,,,147.png,No.147,148.png,,No.148,149.png,,No.149
+1,base3b.png,No.148,DRAGONAIR,148.png,THE DRAGON POKÉMON,DRAGON,5,6,6,3,,,,,,147.png,,No.147,,148.png,No.148,149.png,,No.149
+1,base3c.png,No.149,DRAGONITE,149.png,THE DRAGON POKÉMON,DRAGON,3,5,6,3,,,,,,147.png,,No.147,148.png,,No.148,,149.png,No.149
+1,base1.png,No.133,EEVEE,133.png,THE EVOLUTION POKÉMON,NORMAL,6,7,8,4,,,,Eevee evolves if you encounter the Lost Eevee! Event.,,,,,,133.png,No.133,,,
+1,base1.png,No.151,MEW,151.png,THE NEW SPECIES POKÉMON,PSYCHIC,3,5,5,5,,,,Mew changes your hand to become your entire deck instead.,,,,,,151.png,No.151,,,
+1,base1.png,No.15O,MEWTWO,150.png,THE GENETIC POKÉMON,PSYCHIC,5,7,7,7,,,,Mewtwo repeats all moves performed by allies.,,,,,,150.png,No.15O,,,
+1,base1.png,No.144,ARTICUNO,144.png,THE FREEZE POKÉMON,ICE,7,7,6,11,,,,"Articuno doubles all allies' DEF.
 
 (DEF cannot exceed 12)",,,,,,144.png,No.144,,,
-1,base1.png,No.145,ZAPDOS,145.png,THE ELECTRIC POKÉMON,ELECTRIC,7,9,7,8,mixed.png,ally.png,,Zapdos doubles all allies' SPD.,,,,,,145.png,No.145,,,
-1,base1.png,No.146,MOLTRES,146.png,THE FLAME POKÉMON,FIRE,8,9,7,8,mixed.png,ally.png,,Moltres doubles all allies' ATK.,,,,,,146.png,No.146,,,
-1,base3a.png,No.147,DRATINI,147.png,THE DRAGON POKÉMON,DRAGON,3,5,4,4,,,,,,,147.png,No.147,148.png,,No.148,149.png,,No.149
-1,base3b.png,No.148,DRAGONAIR,148.png,THE DRAGON POKÉMON,DRAGON,5,6,5,6,,,,,,147.png,,No.147,,148.png,No.148,149.png,,No.149
-1,base3c.png,No.149,DRAGONITE,149.png,THE DRAGON POKÉMON,DRAGON,7,9,8,7,,,,,,147.png,,No.147,148.png,,No.148,,149.png,No.149
-1,base1.png,No.15O,MEWTWO,150.png,THE GENETIC POKÉMON,PSYCHIC,9,1O,7,11,mixed.png,ally.png,,Mewtwo repeats all moves performed by allies.,,,,,,150.png,No.15O,,,
-1,base1.png,No.151,MEW,151.png,THE NEW SPECIES POKÉMON,PSYCHIC,9,8,8,9,mixed.png,ally.png,,Mew changes your hand to become your entire deck instead.,,,,,,151.png,No.151,,,
+1,base1.png,No.145,ZAPDOS,145.png,THE ELECTRIC POKÉMON,ELECTRIC,13,7,7,3,,,,Zapdos doubles all allies' SPD.,,,,,,145.png,No.145,,,
+1,base1.png,No.146,MOLTRES,146.png,THE FLAME POKÉMON,FIRE,8,7,9,7,,,,Moltres doubles all allies' ATK.,,,,,,146.png,No.146,,,
+1,base1.png,No.137,PORYGON,137.png,THE VIRTUAL POKÉMON,NORMAL,7,9,7,8,,,,"At the start of the turn, you may switch Porygon's typing to a Type of your choosing.",,,,,,137.png,No.137,,,
+1,base2a.png,No.129,MAGIKARP,129.png,THE FISH POKÉMON,WATER,8,9,7,8,,,,,,,129.png,No.129,,,,130.png,,No.13O
+1,base2a.png,No.138,OMANYTE,138.png,THE SPIRAL POKÉMON,ROCK,3,5,4,4,,,,Whenever an ally gains ATK. Omanyte grants them +1 DEF until the end of Round.,,,138.png,No.138,,,,139.png,,No.139
+1,base2a.png,No.14O,KABUTO,140.png,THE SHELLFISH POKÉMON,ROCK,5,6,5,6,,,,Whenever an ally gains DEF. Kabuto grants them +1 ATK until the end of Round.,,,140.png,No.14O,,,,141.png,,No.141
+1,base1.png,No.142,AERODACTYL,142.png,THE FOSSIL POKÉMON,ROCK,7,9,8,7,,,,,,,,,,142.png,No.142,,,
+1,base2b.png,No.141,KABUTOPS,141.png,THE SHELLFISH POKÉMON,ROCK,9,1O,7,11,,,,"Whenever an ally gains DEF. Kabutops grants them equal ATK until the end of Round.
+",,140.png,,No.14O,,,,,141.png,No.141
+1,base2b.png,No.139,OMASTAR,139.png,THE SPIRAL POKÉMON,ROCK,9,8,8,9,,,,Whenever an ally gains ATK. Omastar grants them equal DEF until the end of Round.,,138.png,,No.138,,,,,139.png,No.139
