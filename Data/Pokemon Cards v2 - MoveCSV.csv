@@ -1,134 +1,143 @@
-units,base,,,name,img,cost,type,effect,Cost,EXP
-1,baseplayer.png,,,Leech Life,bug.png,5,Bug,"Target 1 enemy die, it gains +1. If you do, an ally die by gains -1",5,6
-1,baseplayer.png,,,Pin Missile,bug.png,6,Bug,Target die gets -1. Repeat for every allied Bug Type,6,8
-1,baseplayer.png,,,String Shot,bug.png,5,Bug,Opponent Discards 1 card of their choice,5,3
-1,baseplayer.png,,,Twineedle,bug.png,3,Bug,"Target 2 ally dice, they gain -1",3,6
-1,baseplayer.png,,,Thunder,electric.png,7,Electric,"Paralysis 3
+units,base,name,img,type,effect,EXP
+1,baseplayer.png,Leech Life,bug.png,Bug,"Target 2 dice of equal value, give one -1 and the other +1.",5
+1,baseplayer.png,Pin Missile,bug.png,Bug,Target die gets -1. Repeat for every allied Bug Type,6
+1,baseplayer.png,String Shot,bug.png,Bug,Opponent Discards 1 card of their choice,5
+1,baseplayer.png,Twineedle,bug.png,Bug,"Target 2 ally dice, they gain -1",3
+1,baseplayer.png,Thunder,electric.png,Electric,"Paralysis 3
 
-Paralysis: Opponent re-rolls their lowest die",7,14
-1,baseplayer.png,,,Thunder Shock,electric.png,2,Electric,"Paralysis 1
+Paralysis: Re-roll X dice",7
+1,baseplayer.png,Thunder Shock,electric.png,Electric,"Paralysis 1
 
-Paralysis: Opponent re-rolls their lowest die",2,6
-1,baseplayer.png,,,Thunder Wave,electric.png,2,Electric,"Paralysis 1
+Paralysis: Re-roll X dice",2
+1,baseplayer.png,Thunder Wave,electric.png,Electric,"Paralysis 1
 
-Paralysis: Opponent re-rolls their lowest die",2,6
-1,baseplayer.png,,,Thunderbolt,electric.png,5,Electric,"Paralysis 2
+Paralysis: Re-roll X dice",2
+1,baseplayer.png,Thunderbolt,electric.png,Electric,"Paralysis 2
 
-Paralysis: Opponent re-rolls their lowest die",5,11
-1,baseplayer.png,,,Counter,fighting.png,6,Fighting,"Target die gains -X.
+Paralysis: Re-roll X dice",5
+1,baseplayer.png,Counter,fighting.png,Fighting,"Target die gains -X.
 
-X: the number of dice in the opponent's Attack Zone",6,10
-1,baseplayer.png,,,Double Kick,fighting.png,5,Fighting,"Target 2 dice, they get -1
+X: the number of dice in the opponent's Attack Zone",6
+1,baseplayer.png,Double Kick,fighting.png,Fighting,"Target 2 dice, apply -X to one, and +X to the other
 
-Combo: This move can be played immediately after another move without needing priority.",5,6
-1,baseplayer.png,,,Rolling Kick,fighting.png,6,Fighting,"Declare a die value. All allied dice with that value get -1
+X: Number of Fighting moves in your play area",2
+1,baseplayer.png,Hi Jump Kick,fighting.png,Fighting,"Target 1 ally die, it gains +3 X times. 
+If this move would ever increase the die above 12. Change it to 1.
 
-Combo: This move can be played immediately after another move without needing priority.",6,6
-1,baseplayer.png,,,Ember,fire.png,6,Fire,"Target die gains -2, then Burn 1
+X: Number of Fighting moves in your play area",8
+1,baseplayer.png,Jump Kick,fighting.png,Fighting,"Target 1 ally die, it gains +2 X times.
+If this move would ever increase the die above 12. Change it to 1.
 
-Burn X: Discard your X highest dice",6,5
-1,baseplayer.png,,,Fire Blast,fire.png,12,Fire,"Target die gains -11, then Burn 3
+X: Number of Fighting moves in your play area",6
+1,baseplayer.png,Rolling Kick,fighting.png,Fighting,"Target X dice, they gain -3
 
-Burn X: Discard your X highest dice",12,11
-1,baseplayer.png,,,Fire Punch,fire.png,5,Fire,"Burn 1
+X: Number of Fighting moves in your play area",6
+1,baseplayer.png,Ember,fire.png,Fire,"Target die gains -2, then Burn 1
 
-Burn X: Discard your X highest dice",5,8
-1,baseplayer.png,,,Fire Spin,fire.png,6,Fire,"At the start of either Pokemon's Priority, Burn 1
+Burn X: Discard your X highest dice",6
+1,baseplayer.png,Fire Blast,fire.png,Fire,"Target die gains -11, then Burn 3
+
+Burn X: Discard your X highest dice",12
+1,baseplayer.png,Fire Punch,fire.png,Fire,"Burn 1
+
+Burn X: Discard your X highest dice",5
+1,baseplayer.png,Fire Spin,fire.png,Fire,"At the start of either Pokemon's Priority, Burn 1
 
 Burn X: Discard your X highest dice
 
-Discard this move at the end of the Turn.",6,9
-1,baseplayer.png,,,Flamethrower,fire.png,10,Fire,"Target die gains -6, then Burn 2
+Discard this move at the end of the Turn.",6
+1,baseplayer.png,Flamethrower,fire.png,Fire,"Target die gains -6, then Burn 2
 
-Burn X: Discard your X highest dice",10,7
-1,baseplayer.png,,,Drill Peck,flying.png,4,Flying,Draw +2 Cards,4,8
-1,baseplayer.png,,,Fly,flying.png,6,Flying,"Can only be played before moving this turn.
+Burn X: Discard your X highest dice",10
+1,baseplayer.png,Drill Peck,flying.png,Flying,Draw +2 Cards,4
+1,baseplayer.png,Fly,flying.png,Flying,"Can only be played before moving this turn.
 
-Encounter any space on the map instead of rolling for movement.",6,14
-1,baseplayer.png,,,Peck,flying.png,2,Flying,"Discard 1 Card, if you do Draw +1 Card",2,4
-1,baseplayer.png,,,Sky Attack,flying.png,7,Flying,Draw +4 Cards,7,16
-1,baseplayer.png,,,Wing Attack,flying.png,2,Flying,Draw +1 Card,2,4
-1,baseplayer.png,,,Confuse Ray,ghost.png,1,Ghost,Look at your Rival's Hand. You may Discard 1 card of your choice.,1,10
-1,baseplayer.png,,,Absorb,grass.png,3,Grass,Discard up to 2 dice to Recover an equal number of HP,3,8
-1,baseplayer.png,,,Leech Seed,grass.png,2,Grass,Discard 1 die to Recover 1 HP,2,4
-1,baseplayer.png,,,Mega Drain,grass.png,6,Grass,Discard up to 3 dice to Recover an equal number of HP,6,16
-1,baseplayer.png,,,Petal Dance,grass.png,6,Grass,"Can only be used versus Wild Pokemon. 
+Encounter any space on the map instead of rolling for movement.",6
+1,baseplayer.png,Peck,flying.png,Flying,"Discard 1 Card, if you do Draw +1 Card",2
+1,baseplayer.png,Sky Attack,flying.png,Flying,Draw +4 Cards,7
+1,baseplayer.png,Wing Attack,flying.png,Flying,Draw +1 Card,2
+1,baseplayer.png,Confuse Ray,ghost.png,Ghost,Look at your Rival's Hand. You may Discard 1 card of your choice.,1
+1,baseplayer.png,Absorb,grass.png,Grass,Discard up to 2 dice to Recover HP equal to the number of discarded dice,3
+1,baseplayer.png,Leech Seed,grass.png,Grass,Discard 1 die to Recover 1 HP,2
+1,baseplayer.png,Mega Drain,grass.png,Grass,Discard up to 3 dice to Recover HP equal to the number of discarded dice,6
+1,baseplayer.png,Petal Dance,grass.png,Grass,"Can only be used versus Wild Pokemon. 
 
-You may encounter an additional Pokemon this Turn.",6,14
-1,baseplayer.png,,,Sleep Powder,grass.png,4,Grass,Gain +1 EXP for every unused die at the end of the turn,4,8
-1,baseplayer.png,,,Solar Beam,grass.png,7,Grass,All ally dice in the Attack Zone gain +1,7,12
-1,baseplayer.png,,,Spore,grass.png,7,Grass,Gain +1 EXP for every die in your Attack Zone at the end of the turn,7,8
-1,baseplayer.png,,,Stun Spore,grass.png,7,Grass,Gain +1 EXP for every die in your Defense Zone at the end of the turn,7,8
-1,baseplayer.png,,,Bone Club,ground.png,5,Ground,"Target 2 dice, they gain -1. Then Dig 2
+You may encounter an additional Pokemon this Turn.",6
+1,baseplayer.png,Sleep Powder,grass.png,Grass,Gain +1 EXP for every unused die at the end of the turn,4
+1,baseplayer.png,Solar Beam,grass.png,Grass,All ally dice in the Attack Zone gain +1,7
+1,baseplayer.png,Spore,grass.png,Grass,Gain +1 EXP for every die in your Attack Zone at the end of the turn,7
+1,baseplayer.png,Stun Spore,grass.png,Grass,Gain +1 EXP for every die in your Defense Zone at the end of the turn,7
+1,baseplayer.png,Bone Club,ground.png,Ground,"Target 2 dice, they gain -1. Then Dig 2
 
-Dig X: Look at the top X cards of any deck, you may put any number of them on the bottom and the rest on top in any order.)",5,8
-1,baseplayer.png,,,Bonemerang,ground.png,5,Ground,Target die gains -1. Bonemarang is always Discarded to the top of your deck instead of your Discard pile,5,5
-1,baseplayer.png,,,Dig,ground.png,5,Ground,"Dig 3
+Dig X: Look at the top X cards of any deck, you may put any number of them on the bottom and the rest on top in any order.)",5
+1,baseplayer.png,Bonemerang,ground.png,Ground,Target die gains -1. Bonemarang is always Discarded to the top of your deck instead of your Discard pile,5
+1,baseplayer.png,Dig,ground.png,Ground,"Dig 5
 
-Dig X: Look at the top X cards of any deck, you may put any number of them on the bottom and the rest on top in any order.)",5,9
-1,baseplayer.png,,,Earthquake,ground.png,9,Ground,Search your deck for 1 Card and put it into your hand. Then both Trainers shuffles their Discard piles back into their decks.,9,16
-1,baseplayer.png,,,Fissure,ground.png,11,Ground,Search your deck for 1 Card and put it into your hand. Then shuffle your deck.,11,12
-1,baseplayer.png,,,Aurora Beam,ice.png,3,Ice,"Freeze 1 die
+Dig X: Look at the top X cards of any deck, you may put any number of them on the bottom and the rest on top in any order.)",5
+1,baseplayer.png,Earthquake,ground.png,Ground,Search your deck for 1 Card and put it into your hand. Then both Trainers shuffles their Discard piles back into their decks.,9
+1,baseplayer.png,Fissure,ground.png,Ground,Search your deck for 1 Card and put it into your hand. Then shuffle your deck.,11
+1,baseplayer.png,Aurora Beam,ice.png,Ice,"Freeze 1 die
 
-Freeze: Frozen dice cannot be manipulated by the opponent",3,6
-1,baseplayer.png,,,Blizzard,ice.png,9,Ice,"Freeze 3 dice
+Freeze: Frozen dice cannot be manipulated by the opponent",3
+1,baseplayer.png,Blizzard,ice.png,Ice,"Freeze 3 dice
 
-Freeze: Frozen dice cannot be manipulated by the opponent",9,12
-1,baseplayer.png,,,Haze,ice.png,7,Ice,All your Frozen dice get -2,7,10
-1,baseplayer.png,,,Ice Beam,ice.png,6,Ice,"Freeze 2 dice
+Freeze: Frozen dice cannot be manipulated by the opponent",9
+1,baseplayer.png,Haze,ice.png,Ice,All your Frozen dice get -2,7
+1,baseplayer.png,Ice Beam,ice.png,Ice,"Freeze 2 dice
 
-Freeze: Frozen dice cannot be manipulated by the opponent",6,8
-1,baseplayer.png,,,Ice Punch,ice.png,6,Ice,"Freeze 2 dice
+Freeze: Frozen dice cannot be manipulated by the opponent",6
+1,baseplayer.png,Ice Punch,ice.png,Ice,"Freeze 2 dice
 
-Freeze: Frozen dice cannot be manipulated by the opponent",6,8
-1,baseplayer.png,,,Mist,ice.png,4,Ice,All your Frozen dice get -1,4,10
-1,baseplayer.png,,,Defense Curl,normal.png,4,Normal,Gain +2 DEF till the end of Turn,4,3
-1,baseplayer.png,,,Dizzy Punch,normal.png,3,Normal,"Roll 1D6:
+Freeze: Frozen dice cannot be manipulated by the opponent",6
+1,baseplayer.png,Mist,ice.png,Ice,All your Frozen dice get -1,4
+1,baseplayer.png,Conversion,normal.png,Normal,Reroll 1 die,3
+1,baseplayer.png,Defense Curl,normal.png,Normal,Gain +2 DEF till the end of Turn,4
+1,baseplayer.png,Dizzy Punch,normal.png,Normal,"Roll 1D6:
 4-6: Nothing Happens
-1-3: Rival Discards 1 Card",3,6
-1,baseplayer.png,,,Double Slap,normal.png,2,Normal,Give any die +1 or -1,2,
-1,baseplayer.png,,,Flash,normal.png,1,Normal,You may look at your Rival's hand,1,6
-1,baseplayer.png,,,Focus Energy,normal.png,4,Normal,Gain +1 EXP whenever you defeat a Pokemon this turn,4,5
-1,baseplayer.png,,,Fury Swipes,normal.png,3,Normal,"Target 2 dice, they both gain -1.",3,3
-1,baseplayer.png,,,Glare,normal.png,7,Normal,Enemy gains -3 ATK till the end of Turn,7,
-1,baseplayer.png,,,Growl,normal.png,2,Normal,Enemy gains -1 ATK till the end of Turn,2,3
-1,baseplayer.png,,,Growth,normal.png,2,Normal,Gain +1 ATK till the end of Turn,2,3
-1,baseplayer.png,,,Harden,normal.png,2,Normal,Gain +1 DEF till the end of Turn,2,3
-1,baseplayer.png,,,Hyper Beam,normal.png,7,Normal,"Can only be played as your first move of the round. Discard your hand, then move ALL your dice into the Attack Zone no matter where they are",7,20
-1,baseplayer.png,,,Leer,normal.png,2,Normal,Target gains -1 DEF till the end of Turn,2,3
-1,baseplayer.png,,,Mega Kick,normal.png,8,Normal,"Return all Moves with 'Kick' in the name, from your Discard pile to your hand.",8,19
-1,baseplayer.png,,,Mega Punch,normal.png,8,Normal,"Return all Moves with 'Punch' in the name, from your Discard pile to your hand.",8,19
-1,baseplayer.png,,,Metronome,normal.png,7,Normal,Play the top card of your Deck for free,7,10
-1,baseplayer.png,,,Mimic,normal.png,9,Normal,"Perform the top card of the Rival's Discard pile. Mimic fails if that card is not a Move.
-",9,10
-1,baseplayer.png,,,Minimize,normal.png,8,Normal,Gain +3 DEF till the end of Turn,8,
-1,baseplayer.png,,,Pay Day,normal.png,10,Normal,Gain 1d6 EXP,10,16
-1,baseplayer.png,,,Quick Attack,normal.png,4,Normal,"Target die gets -1.
-Quick Attack does not pass priority",4,3
-1,baseplayer.png,,,Rage,normal.png,7,Normal,"Target one of your own dice, it gains +5",7,8
-1,baseplayer.png,,,Roar,normal.png,9,Normal,"You may replace your encountered wild Pokemon, with another one of your choice from ANY Route deck",9,6
-1,baseplayer.png,,,Screech,normal.png,7,Normal,Target gains -3 DEF till the end of Turn.,7,3
-1,baseplayer.png,,,Sharpen,normal.png,5,Normal,"Gain +2 ATK till the end of Turn.
-",5,3
-1,baseplayer.png,,,Substitute,normal.png,9,Normal,"Put any 2 die you own, into your Defense Zone",9,12
-1,baseplayer.png,,,Supersonic,normal.png,5,Normal,Enemy gains -2 ATK til the end of Turn.,5,
-1,baseplayer.png,,,Swift,normal.png,5,Normal,All your dice gain -1,5,14
-1,baseplayer.png,,,Swords Dance,normal.png,8,Normal,"Gain +3 ATK till the end of Turn.
-",8,10
-1,baseplayer.png,,,Tackle,normal.png,1,Normal,Target die gains -1,1,0
-1,baseplayer.png,,,Tail Whip,normal.png,5,Normal,Target gains -2 DEF till the end of Turn.,5,
-1,baseplayer.png,,,Whirlwind,normal.png,6,Normal,"You may replace your encountered wild Pokemon, with top card of your choice from ANY Route deck",6,12
-1,baseplayer.png,,,Acid,poison.png,4,Poison,Add 1 Posion Card to your Rival's deck,4,8
-1,baseplayer.png,,,Sludge,poison.png,6,Poison,Add 2 Poison Cards to your Rival's Deck,6,12
-1,baseplayer.png,,,Smog,poison.png,9,Poison,Discard any number of dice you own. Rival adds Poison Cards equal to the number of dice Discarded.,9,16
-1,baseplayer.png,,,Agility,psychic.png,7,Psychic,All your dice gain -1. This move does not pass priority.,7,11
-1,baseplayer.png,,,Confusion,psychic.png,2,Psychic,Give any die +1 or -1,2,3
-1,baseplayer.png,,,Hypnosis,psychic.png,6,Psychic,Swap 1 die with your Rival. You choose both dice,6,13
-1,baseplayer.png,,,Psybeam,psychic.png,4,Psychic,Reroll 2 dice of your choice,4,8
-1,baseplayer.png,,,Psychic,psychic.png,6,Psychic,Reroll 3 dice of your choice,6,11
-1,baseplayer.png,,,Psywave,psychic.png,2,Psychic,Reroll 1 die of your choice,2,5
-1,baseplayer.png,,,Rest,psychic.png,5,Psychic,Discard your hand. Then Draw an equal amount,5,7
-1,baseplayer.png,,,Teleport,psychic.png,3,Psychic,"At the end of this turn, move to the nearest City (you do not trigger the City ability)",3,8
-1,baseplayer.png,,,Rock Slide,rock.png,6,Rock,All opponent dice gain +1,6,13
-1,baseplayer.png,,,Rock Throw,rock.png,5,Rock,Move 1 die from your Attack Zone to your Defense Zone regardless of stats,5,4
-1,baseplayer.png,,,Withdraw,water.png,5,Water,Move 1 die from your Attack Zone to your Defense Zone regardless of stats,5,4
+1-3: Rival Discards 1 Card",3
+1,baseplayer.png,Double Slap,normal.png,Normal,Give any die +1 or -1,2
+1,baseplayer.png,Flash,normal.png,Normal,You may look at your Rival's hand,1
+1,baseplayer.png,Focus Energy,normal.png,Normal,Gain +1 EXP. Gain an additional +2 EXP if you defeated a Pokemon this turn,4
+1,baseplayer.png,Fury Swipes,normal.png,Normal,"Target 2 dice, they both gain -1.",3
+1,baseplayer.png,Glare,normal.png,Normal,Enemy gains -3 ATK till the end of Turn,7
+1,baseplayer.png,Growl,normal.png,Normal,Enemy gains -1 ATK till the end of Turn,2
+1,baseplayer.png,Growth,normal.png,Normal,Gain +1 ATK till the end of Turn,2
+1,baseplayer.png,Harden,normal.png,Normal,Gain +1 DEF till the end of Turn,2
+1,baseplayer.png,Hyper Beam,normal.png,Normal,"Can only be played as your first move of the round. Discard your hand, then move ALL dice in your unused Zone into the Attack Zone.",7
+1,baseplayer.png,Leer,normal.png,Normal,Target gains -1 DEF till the end of Turn,2
+1,baseplayer.png,Mega Kick,normal.png,Normal,"Return all Moves with 'Kick' in the name, from your Discard pile to your hand.",8
+1,baseplayer.png,Mega Punch,normal.png,Normal,"Return all Moves with 'Punch' in the name, from your Discard pile to your hand.",8
+1,baseplayer.png,Metronome,normal.png,Normal,Reveal the top card of the move deck. You use that move.,7
+1,baseplayer.png,Mimic,normal.png,Normal,"Perform the top card of the Rival's Discard pile. Mimic fails if that card is not a Move.
+",9
+1,baseplayer.png,Minimize,normal.png,Normal,Gain +3 DEF till the end of Turn,8
+1,baseplayer.png,Pay Day,normal.png,Normal,Gain 1d6 EXP,10
+1,baseplayer.png,Quick Attack,normal.png,Normal,"Target die gets -1.
+Quick Attack does not pass priority",4
+1,baseplayer.png,Rage,normal.png,Normal,"Target one of your own dice, it gains +5",7
+1,baseplayer.png,Roar,normal.png,Normal,"You may replace your encountered wild Pokemon, with another one of your choice from ANY Route deck",9
+1,baseplayer.png,Screech,normal.png,Normal,Target gains -3 DEF till the end of Turn.,7
+1,baseplayer.png,Sharpen,normal.png,Normal,"Gain +2 ATK till the end of Turn.
+",5
+1,baseplayer.png,Substitute,normal.png,Normal,"Put any 2 die you own, into your Defense Zone regardless of value",9
+1,baseplayer.png,Supersonic,normal.png,Normal,Enemy gains -2 ATK til the end of Turn.,5
+1,baseplayer.png,Swift,normal.png,Normal,All your dice gain -1,5
+1,baseplayer.png,Swords Dance,normal.png,Normal,"Gain +3 ATK till the end of Turn.
+",8
+1,baseplayer.png,Tackle,normal.png,Normal,Target die gains -1,1
+1,baseplayer.png,Tail Whip,normal.png,Normal,Target gains -2 DEF till the end of Turn.,5
+1,baseplayer.png,Whirlwind,normal.png,Normal,"You may replace your encountered wild Pokemon, with top card of your choice from ANY Route deck",6
+1,baseplayer.png,Acid,poison.png,Poison,Add 1 Posion Card to your Rival's deck,4
+1,baseplayer.png,Sludge,poison.png,Poison,Add 2 Poison Cards to your Rival's Deck,6
+1,baseplayer.png,Smog,poison.png,Poison,Discard any number of dice you own. Rival adds Poison Cards equal to the number of dice Discarded.,9
+1,baseplayer.png,Agility,psychic.png,Psychic,All your dice gain -1. This move does not pass priority.,7
+1,baseplayer.png,Confusion,psychic.png,Psychic,Give any die +1 or -1,2
+1,baseplayer.png,Hypnosis,psychic.png,Psychic,Swap 1 die with your Rival. You choose both dice,6
+1,baseplayer.png,Psybeam,psychic.png,Psychic,Reroll 2 dice of your choice,4
+1,baseplayer.png,Psychic,psychic.png,Psychic,Reroll 3 dice of your choice,6
+1,baseplayer.png,Psywave,psychic.png,Psychic,Reroll 1 die of your choice,2
+1,baseplayer.png,Rest,psychic.png,Psychic,Discard your hand. Then Draw an equal amount,5
+1,baseplayer.png,Teleport,psychic.png,Psychic,"At the end of this turn, move to the nearest City (you do not trigger the City ability)",3
+1,baseplayer.png,Rock Slide,rock.png,Rock,All opponent dice gain +1,6
+1,baseplayer.png,Rock Throw,rock.png,Rock,Move 1 die from your Attack Zone to your Defense Zone regardless of stats,5
+1,baseplayer.png,Withdraw,water.png,Water,Move 1 die from your Attack Zone to your Defense Zone regardless of stats,5
