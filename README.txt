@@ -1,0 +1,8 @@
+- Download latest CSV file from the Spreadsheet
+- Open corresponding Inkscape template
+- Generate cards in Inkscape
+- Remove old cards and counter sheet from respective folder
+- Export cards from Inkscape (make sure to lay them out in a grid first)
+- Run build_deck script with Powershell
+- Commit changes in Git, Push
+- Load the TTS save with Mod Caching turned OFF!
