@@ -9,23 +9,23 @@ units,base,id,name,sprite,title,type,hp,atk,def,spd,trigger,trigger2,trigger3,ab
 1,base3a.png,No.O16,PIDGEY,16.png,THE TINY BIRD POKÉMON,FLYING,3,3,3,5,,,,Pidgey gives the active Pokemon +1 SPD.,,,16.png,No.O16,17.png,,No.O17,18.png,,No.O18
 1,base2a.png,No.O19,RATTATA,19.png,THE MOUSE POKÉMON,NORMAL,3,3,3,6,,,,"Whenever you release a Pokemon, Rattata gains +1 EXP.",,,19.png,No.O19,,,,20.png,,No.O2O
 1,base2a.png,No.O21,SPEAROW,21.png,THE TINY BIRD POKÉMON,FLYING,3,4,2,6,,,,Whenever an opposing Pokemon is defeated Spearow let's the active Pokemon Discard 1 to Draw 1.,,,21.png,No.O21,,,,22.png,,No.O22
-1,base2a.png,No.O23,EKANS,23.png,THE SNAKE POKÉMON,POISON,3,4,4,4,,,,,,,23.png,No.O23,,,,24.png,,No.O24
+1,base2a.png,No.O23,EKANS,23.png,THE SNAKE POKÉMON,POISON,3,4,4,4,,,,All your Poison moves gain Poison 1 if they don't already Poison.,,,23.png,No.O23,,,,24.png,,No.O24
 1,base2a.png,No.O25,PIKACHU,25.png,THE MOUSE POKÉMON,ELECTRIC,3,4,4,7,,,,"Whenever you Recharge, Pikachu rerolls 1 die of your choice.",,,25.png,No.O25,,,,26.png,,No.O26
 1,base2a.png,No.O27,SANDSHREW,27.png,THE MOUSE POKÉMON,GROUND,4,4,5,3,,,,Whenever an opposing Pokemon is defeated Sandshrew gives the active Pokemon +1 DEF.,"*Dig X:* Look at the top X cards, you may Discard any of them instead.",,27.png,No.O27,,,,28.png,,No.O28
 1,base3a.png,No.O29,NIDORAN♀,29.png,THE POISON PIN POKÉMON,POISON,5,3,4,3,,,,"Whenever you catch a Pokemon, Nidoran♀ adds 1x Poison Cards to ALL Rivals' decks.",,,29.png,No.O29,30.png,,No.O3O,31.png,,No.O31
 1,base3a.png,No.O32,NIDORAN♂,32.png,THE POISON PIN POKÉMON,POISON,4,4,3,4,,,,"Whenever you defeat a Pokemon, Nidoran♂ adds 1x Poison Cards to ALL Rivals' decks.",,,32.png,No.O32,33.png,,No.O33,34.png,,No.O34
-1,base2a.png,No.O35,CLEFAIRY,35.png,THE FAIRY POKÉMON,NORMAL,6,4,4,3,,,,"At the start of an ally's turn, Rattata may remove 1 Move from the Move Pool, immediately replenish it with the top of the Move deck.",,,35.png,No.O35,,,,36.png,,No.O36
+1,base2a.png,No.O35,CLEFAIRY,35.png,THE FAIRY POKÉMON,NORMAL,6,4,4,3,,,,"At the beginning of your Round, Clefairy may look at the top of any basic Route deck. It may put this card on the bottom instead.",,,35.png,No.O35,,,,36.png,,No.O36
 1,base2a.png,No.O37,VULPIX,37.png,THE FOX POKÉMON,FIRE,3,4,4,5,,,,Vulpix gives the active Pokemon +1 ATK for each card in your Burn Zone.,*Burned die:* Burned dice will not be rolled the next round,,37.png,No.O37,,,,38.png,,No.O38
-1,base2a.png,No.O39,JIGGLYPUFF,39.png,THE BALLOON POKÉMON,NORMAL,9,4,2,2,,,,At the start of an ally's turn. Jigglypuff grants them +2 EXP,,,39.png,No.O39,,,,40.png,,No.O4O
+1,base2a.png,No.O39,JIGGLYPUFF,39.png,THE BALLOON POKÉMON,NORMAL,9,4,2,2,,,,"During Jigglypuff's turn, whenever you use a found item card, gain +1 EXP",,,39.png,No.O39,,,,40.png,,No.O4O
 1,base2a.png,No.O41,ZUBAT,41.png,THE BAT POKÉMON,POISON,3,3,3,5,,,,Whenever you add Poison cards to any Rival's Deck. Zubarrecovers 1 HP to all allies.,,,41.png,No.O41,,,,42.png,,No.O42
-1,base3a.png,No.O43,ODDISH,43.png,THE WEED POKÉMON,GRASS,4,5,5,2,,,,,,,43.png,No.O43,44.png,,No.O44,45.png,,No.O45
+1,base3a.png,No.O43,ODDISH,43.png,THE WEED POKÉMON,GRASS,4,5,5,2,,,,Whenever you encounter a wild Pokemon. Oddish reveals 1 additional card.,,,43.png,No.O43,44.png,,No.O44,45.png,,No.O45
 1,base2a.png,No.O46,PARAS,46.png,THE MUSHROOM POKÉMON,BUG,3,5,4,2,,,,"At the start of your turn, Paras may fill out 1 empty slot on your current route",,,46.png,No.O46,,,,47.png,,No.O47
 1,base2a.png,No.O48,VENONAT,48.png,THE INSECT POKÉMON,BUG,5,4,4,4,,,,"At the start of your turn, Venonat may switch the locations of 2 adjacent wild Pokemon on the same Route.",,,48.png,No.O48,,,,49.png,,No.O49
 1,base2a.png,No.O5O,DIGLETT,50.png,THE MOLE POKÉMON,GROUND,1,3,3,8,,,,,"*Dig X:* Look at the top X cards, you may Discard any of them instead.",,50.png,No.O5O,,,,51.png,,No.O51
 1,base2a.png,No.O52,MEOWTH,52.png,THE SCRATCH CAT POKÉMON,NORMAL,3,3,3,8,,,,"The first time the active Pokemon defeats an opposing Pokemon, Meowth gains +1 EXP.",,,52.png,No.O52,,,,53.png,,No.O53
 1,base2a.png,No.O54,PSYDUCK,54.png,THE DUCK POKÉMON,WATER,4,5,4,4,,,,Psyduck may use its allies ATK and DEF instead of its own.,,,54.png,No.O54,,,,55.png,,No.O55
 1,base2a.png,No.O56,MANKEY,56.png,THE PIG MONKEY POKÉMON,FIGHTING,3,5,3,6,,,,Whenever an opposing Pokemon is defeated Mankey gives the active Pokemon +1 ATK.,,,56.png,No.O56,,,,57.png,,No.O57
-1,base2a.png,No.O58,GROWLITHE,58.png,THE PUPPY POKÉMON,FIRE,4,6,4,5,,,,,*Burned die:* Burned dice will not be rolled the next round,,58.png,No.O58,,,,59.png,,No.O59
+1,base2a.png,No.O58,GROWLITHE,58.png,THE PUPPY POKÉMON,FIRE,4,6,4,5,,,,"Whenever you Burn 3 or more Cards at once, Growlithe Deals 1 damage directly.",*Burned die:* Burned dice will not be rolled the next round,,58.png,No.O58,,,,59.png,,No.O59
 1,base3a.png,No.O6O,POLIWAG,60.png,THE TADPOLE POKÉMON,WATER,3,4,3,8,,,,,,,60.png,No.O6O,61.png,,No.O61,62.png,,No.O62
 1,base3a.png,No.O63,ABRA,63.png,THE PSI POKÉMON,PSYCHIC,2,5,3,7,,,,"At the start of any encounter, Abra may re-roll 1 die.",,,63.png,No.O63,64.png,,No.O64,65.png,,No.O65
 1,base3a.png,No.O66,MACHOP,66.png,THE SUPERPOWER POKÉMON,FIGHTING,6,5,3,3,,,,Whenever an opposing Pokemon is defeated Machop gives the active Pokemon a die of value 1 in the Attack Zone.,,,66.png,No.O66,67.png,,No.O67,68.png,,No.O68
@@ -60,11 +60,11 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 ",,13.png,,No.O13,14.png,,No.O14,,15.png,No.O15
 1,base3b.png,No.O17,PIDGEOTTO,17.png,THE BIRD POKÉMON,FLYING,5,5,4,6,,,,Pidgeotto gives the active Pokemon +2 SPD.,,16.png,,No.O16,,17.png,No.O17,18.png,,No.O18
 1,base2b.png,No.O2O,RATICATE,20.png,THE MOUSE POKÉMON,NORMAL,5,5,5,8,,,,"Whenever you release a Pokemon, Raticate gains +2 EXP.",,19.png,,No.O19,,,,,20.png,No.O2O
-1,base2b.png,No.O24,ARBOK,24.png,THE COBRA POKÉMON,POISON,5,6,6,7,,,,,,23.png,,No.O23,,,,,24.png,No.O24
+1,base2b.png,No.O24,ARBOK,24.png,THE COBRA POKÉMON,POISON,5,6,6,7,,,,All your Poison moves additionally gain Poison 1.,,23.png,,No.O23,,,,,24.png,No.O24
 1,base2b.png,No.O28,SANDSLASH,28.png,THE MOUSE POKÉMON,GROUND,6,6,7,5,,,,Whenever an opposing Pokemon is defeated Sandslash gives the active Pokemon +2 DEF.,"*Dig X:* Look at the top X cards, you may Discard any of them instead.",27.png,,No.O27,,,,,28.png,No.O28
 1,base3b.png,No.O3O,NIDORINA,30.png,THE POISON PIN POKÉMON,POISON,6,5,5,4,,,,"Whenever you catch a Pokemon, Nidorina adds 2x Poison Cards to ALL Rivals' decks.",,29.png,,No.O29,,30.png,No.O3O,31.png,,No.O31
 1,base3b.png,No.O33,NIDORINO,33.png,THE POISON PIN POKÉMON,POISON,5,5,5,5,,,,"Whenever you defeat a Pokemon, Nidorino adds 2x Poison Cards to ALL Rivals' decks.",,32.png,,No.O32,,33.png,No.O33,34.png,,No.O34
-1,base3b.png,No.O44,GLOOM,44.png,THE WEED POKÉMON,GRASS,5,6,6,3,,,,,,43.png,,No.O43,,44.png,No.O44,45.png,,No.O45
+1,base3b.png,No.O44,GLOOM,44.png,THE WEED POKÉMON,GRASS,5,6,6,3,,,,Whenever you encounter a wild Pokemon. Gloom reveals 2 additional cards.,,43.png,,No.O43,,44.png,No.O44,45.png,,No.O45
 1,base2b.png,No.O47,PARASECT,47.png,THE MUSHROOM POKÉMON,BUG,5,6,6,3,,,,"At the start of your turn, Parasect may fill out empty slots on your current route equal to the number of Bug types you own",,46.png,,No.O46,,,,,47.png,No.O47
 1,base2b.png,No.O51,DUGTRIO,51.png,THE MOLE POKÉMON,GROUND,3,6,5,1O,,,,,"*Dig X:* Look at the top X cards, you may Discard any of them instead.",50.png,,No.O5O,,,,,51.png,No.O51
 1,base3b.png,No.O61,POLIWHIRL,61.png,THE TADPOLE POKÉMON,WATER,5,5,5,7,,,,,,60.png,,No.O6O,,61.png,No.O61,62.png,,No.O62
@@ -74,16 +74,16 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 1,base3b.png,No.O75,GRAVELER,75.png,THE ROCK POKÉMON,ROCK,5,6,6,3,,,,Whenever an opposing Pokemon is defeated Graveler gives the active Pokemon a die of value 2 in the Defense Zone.,,74.png,,No.O74,,75.png,No.O75,76.png,,No.O76
 1,base2a.png,No.O77,PONYTA,77.png,THE FIRE HORSE POKÉMON,FIRE,4,6,5,7,,,,"Whenever you Burn 3 or more Cards at once, Ponyta Draws 1.",*Burned die:* Burned dice will not be rolled the next round,,77.png,No.O77,,,,78.png,,No.O78
 1,base2b.png,No.O82,MAGNETON,82.png,THE MAGNET POKÉMON,ELECTRIC,4,7,7,6,,,,"At the start of any encounter, Magneton may re-roll up to 3 dice.",,81.png,,No.O81,,,,,82.png,No.O82
-1,base1.png,No.O83,FARFETCH'D,83.png,THE WILD DUCK POKÉMON,NORMAL,4,6,5,5,,,,,,,,,,83.png,No.O83,,,
+1,base1.png,No.O83,FARFETCH'D,83.png,THE WILD DUCK POKÉMON,NORMAL,4,6,5,5,,,,"Whenever you encounter a Wild Pokemon, you may trade a Pokemon you own of equal rarity with the wild Pokemon. (Gain EXP for both Capture and Release)",,,,,,83.png,No.O83,,,
 1,base3b.png,No.O93,HAUNTER,93.png,THE GAS POKÉMON,GHOST,4,6,4,8,,,,"At the start of Round, Haunter forcing Rival to Discard 2 Cards.",,92.png,,No.O92,,93.png,No.O93,94.png,,No.O94
-1,base1.png,No.O95,ONIX,95.png,THE ROCK SNAKE POKÉMON,ROCK,3,3,8,6,,,,"The first time an ally would be K.O'd, Onix leaves them at 1 HP instead.
+1,base1.png,No.O95,ONIX,95.png,THE ROCK SNAKE POKÉMON,ROCK,3,3,8,6,,,,"When an ally would be K.O'd, Onix may leave them at 1 HP instead.
 
-(This ability can only trigger once per turn)",,,,,,95.png,No.O95,,,
+(This ability can only trigger once per Round)",,,,,,95.png,No.O95,,,
 1,base2b.png,No.1O5,MAROWAK,105.png,THE BONE KEEPER POKÉMON,GROUND,5,5,8,4,,,,"The first time an ally performs a Move, Marowak may take any card from the discard pile, and place it on top of the deck.",,104.png,,No.1O4,,,,,105.png,No.1O5
 1,base1.png,No.1O6,HITMONLEE,106.png,THE KICKING POKÉMON,FIGHTING,4,6,7,7,,,,"Whenever Hitmonlee uses a move containing the word 'Kick', repeat it.",,,,,,106.png,No.1O6,,,
 1,base1.png,No.1O7,HITMONCHAN,107.png,THE PUNCHING POKÉMON,FIGHTING,4,6,8,6,,,,"Whenever Hitmonchan uses a move containing the word 'Punch', repeat it.",,,,,,107.png,No.1O7,,,
 1,base1.png,No.1O8,LICKITUNG,108.png,THE LICKING POKÉMON,NORMAL,8,5,6,3,,,,,,,,,,108.png,No.1O8,,,
-1,base1.png,No.114,TANGELA,114.png,THE VINE POKÉMON,GRASS,6,6,6,5,,,,,,,,,,114.png,No.114,,,
+1,base1.png,No.114,TANGELA,114.png,THE VINE POKÉMON,GRASS,6,6,6,5,,,,Tangela increase all your Recovery by 1.,,,,,,114.png,No.114,,,
 1,base2b.png,No.117,SEADRA,117.png,THE DRAGON POKÉMON,WATER,5,6,6,7,,,,"Whenever a die enters an ally's Attack Zone, Seaking grants all allies +1 DEF.",,116.png,,No.116,,,,,117.png,No.117
 1,base1.png,No.122,MR. MIME,122.png,THE BARRIER POKÉMON,PSYCHIC,3,6,7,8,,,,"Mr. Mime forces all 1's to become 12's, and 12's become 1's.",,,,,,122.png,No.122,,,
 1,base3c.png,No.OO3,VENUSAUR,3.png,THE SEED POKÉMON,GRASS,7,7,7,7,,,,"Whenever you play a Grass-type move, Venusaur Recovers 3 HP to the active Pokemon.",,1.png,,No.OO1,2.png,,No.OO2,,3.png,No.OO3
@@ -94,17 +94,17 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 1,base2b.png,No.O26,RAICHU,26.png,THE MOUSE POKÉMON,ELECTRIC,5,7,6,9,,,,"Whenever you Recharge, Raichu rerolls up to 2 dice of your choice.",,25.png,,No.O25,,,,,26.png,No.O26
 1,base3c.png,No.O31,NIDOQUEEN,31.png,THE DRILL POKÉMON,POISON,7,7,7,6,,,,"Whenever you catch a Pokemon, Nidoqueen adds 3x Poison Cards to ALL Rivals' decks.",,29.png,,No.O29,30.png,,No.O3O,,31.png,No.O31
 1,base3c.png,No.O34,NIDOKING,34.png,THE DRILL POKÉMON,POISON,7,7,6,7,,,,"Whenever you defeat a Pokemon, Nidoking adds 3x Poison Cards to ALL Rivals' decks.",,32.png,,No.O32,33.png,,No.O33,,34.png,No.O34
-1,base2b.png,No.O36,CLEFABLE,36.png,THE FAIRY POKÉMON,NORMAL,8,7,6,5,,,,"At the start of an ally's turn, Raticate may remove up to 3 Moves from the Move Pool, immediately replenish them with the top of the Move deck.",,35.png,,No.O35,,,,,36.png,No.O36
+1,base2b.png,No.O36,CLEFABLE,36.png,THE FAIRY POKÉMON,NORMAL,8,7,6,5,,,,"At the beginning of your Turns, Clefable may look at the top of any basic Route deck. It may put this card on the bottom instead.",,35.png,,No.O35,,,,,36.png,No.O36
 1,base2b.png,No.O38,NINETALES,38.png,THE FOX POKÉMON,FIRE,6,6,7,9,,,,"Ninetales gives the active Pokemon +3 ATK for each card in your Burn Zone.
 ",*Burned die:* Burned dice will not be rolled the next round,37.png,,No.O37,,,,,38.png,No.O38
-1,base2b.png,No.O4O,WIGGLYTUFF,40.png,THE BALLOON POKÉMON,NORMAL,11,6,4,4,,,,At the start of an ally's turn. Wigglytuff grants them +3 EXP,,39.png,,No.O39,,,,,40.png,No.O4O
+1,base2b.png,No.O4O,WIGGLYTUFF,40.png,THE BALLOON POKÉMON,NORMAL,11,6,4,4,,,,"Whenever you use a found item card, Wigglytuff gains +1 EXP",,39.png,,No.O39,,,,,40.png,No.O4O
 1,base2b.png,No.O42,GOLBAT,42.png,THE BAT POKÉMON,POISON,6,6,6,7,,,,Whenever you add Poison cards to any Rival's Deck. Golbat recovers HP to all allies equal to the number of Poison cards added.,,41.png,,No.O41,,,,,42.png,No.O42
-1,base3c.png,No.O45,VILEPLUME,45.png,THE FLOWER POKÉMON,GRASS,6,8,7,4,,,,,,43.png,,No.O43,44.png,,No.O44,,45.png,No.O45
+1,base3c.png,No.O45,VILEPLUME,45.png,THE FLOWER POKÉMON,GRASS,6,8,7,4,,,,Whenever you encounter a wild Pokemon. Vileplume reveals 3 additional cards.,,43.png,,No.O43,44.png,,No.O44,,45.png,No.O45
 1,base2b.png,No.O49,VENOMOTH,49.png,THE POISON MOTH POKÉMON,BUG,6,6,5,8,,,,"At the start of your turn, Venomoth may switch the locations of 2 wild Pokemon on the same Route.",,48.png,,No.O48,,,,,49.png,No.O49
 1,base2b.png,No.O53,PERSIAN,53.png,THE CLASSY CAT POKÉMON,NORMAL,5,5,5,1O,,,,"The first time the active Pokemon defeats an opposing Pokemon, Persian gains +2 EXP.",,52.png,,No.O52,,,,,53.png,No.O53
 1,base2b.png,No.O55,GOLDUCK,55.png,THE DUCK POKÉMON,WATER,7,7,6,7,,,,Golduck allows any ally to use another allies' ATK and DEF instead of its own.,,54.png,,No.O54,,,,,55.png,No.O55
 1,base2b.png,No.O57,PRIMEAPE,57.png,THE PIG MONKEY POKÉMON,FIGHTING,5,7,5,8,,,,Whenever an opposing Pokemon is defeated Primeape gives the active Pokemon +2 ATK.,,56.png,,No.O56,,,,,57.png,No.O57
-1,base2b.png,No.O59,ARCANINE,59.png,THE LEGENDARY POKÉMON,FIRE,8,8,6,8,,,,,*Burned die:* Burned dice will not be rolled the next round,58.png,,No.O58,,,,,59.png,No.O59
+1,base2b.png,No.O59,ARCANINE,59.png,THE LEGENDARY POKÉMON,FIRE,8,8,6,8,,,,"Whenever you Burn 2 or more Cards at once, Arcanine Deals 1 damage directly.",*Burned die:* Burned dice will not be rolled the next round,58.png,,No.O58,,,,,59.png,No.O59
 1,base3c.png,No.O62,POLIWRATH,62.png,THE TADPOLE POKÉMON,WATER,7,7,7,6,,,,,,60.png,,No.O6O,61.png,,No.O61,,62.png,No.O62
 1,base3c.png,No.O65,ALAKAZAM,65.png,THE PSI POKÉMON,PSYCHIC,5,7,6,1O,,,,"At the start of any encounter, Alakazam may re-roll up to 3 dice.",,63.png,,No.O63,64.png,,No.O64,,65.png,No.O65
 1,base3c.png,No.O68,MACHAMP,68.png,THE SUPERPOWER POKÉMON,FIGHTING,7,8,7,4,,,,Whenever an opposing Pokemon is defeated Machamp gives the active Pokemon a die of value 3 in the Attack Zone.,,66.png,,No.O66,67.png,,No.O67,,68.png,No.O68
@@ -140,10 +140,10 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 1.",,88.png,,No.O88
 1,base1.png,No.127,PINSIR,127.png,THE STAG BEETLE POKÉMON,BUG,6,7,7,7,,,,"Pinsir gives allies Damage bonus equal to number of Bug type Pokemon owned.
 ",,,,,,127.png,No.127,,,
 1,base1.png,No.128,TAUROS,128.png,THE WILD BULL POKÉMON,NORMAL,6,6,7,9,,,,Tauros removes your hand size limit,,,,,,128.png,No.128,,,
-1,base2a.png,No.111,RHYHORN,111.png,THE SPIKES POKÉMON,GROUND,7,4,5,2,,,,"Whenever you Dig, Rhyhorn Draws 1 Card.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",,111.png,No.111,,,,112.png,,No.112
-1,base2b.png,No.112,RHYDON,112.png,THE DRILL POKÉMON,GROUND,9,7,7,3,,,,"Whenever you Dig, Rhydon Draws Cards equal to the Digging value.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",111.png,,No.111,,,,,112.png,No.112
+1,base2a.png,No.111,RHYHORN,111.png,THE SPIKES POKÉMON,GROUND,7,4,5,2,,,,"Whenever you play a Ground-type move, Rhyhorn Digs 1.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",,111.png,No.111,,,,112.png,,No.112
+1,base2b.png,No.112,RHYDON,112.png,THE DRILL POKÉMON,GROUND,9,7,7,3,,,,"Whenever you play a Ground-type move, Rhydon Digs 2.","*Dig X:* Look at the top X cards, you may Discard any of them instead.",111.png,,No.111,,,,,112.png,No.112
 1,base1.png,No.115,KANGASKHAN,115.png,THE PARENT POKÉMON,NORMAL,9,5,6,8,,,,,,,,,,115.png,No.115,,,
-1,base2a.png,No.1O2,EXEGGCUTE,102.png,THE EGG POKÉMON,GRASS,5,4,5,3,,,,Tangela increase all Healing to allies by 1.,,,102.png,No.1O2,,,,103.png,,No.1O3
+1,base2a.png,No.1O2,EXEGGCUTE,102.png,THE EGG POKÉMON,GRASS,5,4,5,3,,,,,,,102.png,No.1O2,,,,103.png,,No.1O3
 1,base2b.png,No.1O3,EXEGGUTOR,103.png,THE COCONUT POKÉMON,GRASS,8,9,6,5,,,,,,102.png,,No.1O2,,,,,103.png,No.1O3
 1,base3a.png,No.147,DRATINI,147.png,THE DRAGON POKÉMON,DRAGON,3,5,4,4,,,,,,,147.png,No.147,148.png,,No.148,149.png,,No.149
 1,base3b.png,No.148,DRAGONAIR,148.png,THE DRAGON POKÉMON,DRAGON,5,6,5,6,,,,,,147.png,,No.147,,148.png,No.148,149.png,,No.149
