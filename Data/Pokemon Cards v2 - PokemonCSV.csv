@@ -1,7 +1,7 @@
 units,base,id,name,sprite,title,type,hp,atk,def,spd,trigger,trigger2,trigger3,ability,explanation,sm1sprite,lg1sprite,ida,sm2sprite,lg2sprite,idb,sm3sprite,lg3sprite,idc,tier
-1,base3a.png,No.OO1,BULBASAUR,1.png,THE SEED POKÉMON,GRASS,4,5,5,4,,,,"Whenever you play a Grass-type move, Bulbasaur Recovers 1 HP to the active Pokemon.",,,1.png,No.OO1,2.png,,No.OO2,3.png,,No.OO3,T0.png
-1,base3a.png,No.OO4,CHARMANDER,4.png,THE LIZARD POKÉMON,FIRE,3,5,4,5,,,,"Whenever you play a Fire-type move, Charmander adds 1 to any die.",*Burned die:* Burned dice will not be rolled the next round,,4.png,No.OO4,5.png,,No.OO5,6.png,,No.OO6,T0.png
-1,base3a.png,No.OO7,SQUIRTLE,7.png,THE TINY TURTLE POKÉMON,WATER,4,4,5,4,,,,"Whenever you play a Water-type move, Squirtle subtracts 1 to any die.",,,7.png,No.OO7,8.png,,No.OO8,9.png,,No.OO9,T0.png
+1,base3a.png,No.OO1,BULBASAUR,1.png,THE SEED POKÉMON,GRASS,4,5,5,4,,,,The first time an opposing Pokemon is defeated during your turns. Bulbasaur adds a die of value 1 to the active Pokemon's Dice Zone.,,,1.png,No.OO1,2.png,,No.OO2,3.png,,No.OO3,T0.png
+1,base3a.png,No.OO4,CHARMANDER,4.png,THE LIZARD POKÉMON,FIRE,3,5,4,5,,,,The first time an opposing Pokemon is defeated during your turns. Charmander adds a die of value 1 into the active Pokemon's Attack Zone.,*Burned die:* Burned dice will not be rolled the next round,,4.png,No.OO4,5.png,,No.OO5,6.png,,No.OO6,T0.png
+1,base3a.png,No.OO7,SQUIRTLE,7.png,THE TINY TURTLE POKÉMON,WATER,4,4,5,4,,,,The first time an opposing Pokemon is defeated during your turns. Squirtle adds a die of value 1 into the active Pokemon's Defense Zone.,,,7.png,No.OO7,8.png,,No.OO8,9.png,,No.OO9,T0.png
 1,base3a.png,No.O1O,CATERPIE,10.png,THE WORM POKÉMON,BUG,4,2,2,4,,,,When Metapod is revealed (even if not encountered). Evolve Caterpie immediately. Re-draw the encounter.,,,10.png,No.O1O,11.png,,No.O11,12.png,,No.O12,T1.png
 1,base3b.png,No.O11,METAPOD,11.png,THE COCOON POKÉMON,BUG,4,2,3,3,,,,When Butterfree is revealed (even if not encountered). Evolve Metapod immediately. Re-draw the encounter.,,10.png,,No.O1O,,11.png,No.O11,12.png,,No.O12,T1.png
 1,base3a.png,No.O13,WEEDLE,13.png,THE HAIRY BUG POKÉMON,BUG,4,2,2,4,,,,When Kakuna is revealed (even if not encountered). Evolve Weedle immediately. Re-draw the encounter.,,,13.png,No.O13,14.png,,No.O14,15.png,,No.O15,T1.png
@@ -28,11 +28,11 @@ units,base,id,name,sprite,title,type,hp,atk,def,spd,trigger,trigger2,trigger3,ab
 1,base2a.png,No.O58,GROWLITHE,58.png,THE PUPPY POKÉMON,FIRE,4,6,4,5,,,,"Whenever you Burn 3 or more Cards at once, Growlithe Deals 1 damage directly.",*Burned die:* Burned dice will not be rolled the next round,,58.png,No.O58,,,,59.png,,No.O59,T1.png
 1,base3a.png,No.O6O,POLIWAG,60.png,THE TADPOLE POKÉMON,WATER,3,4,3,8,,,,,,,60.png,No.O6O,61.png,,No.O61,62.png,,No.O62,T1.png
 1,base3a.png,No.O63,ABRA,63.png,THE PSI POKÉMON,PSYCHIC,2,5,3,7,,,,"At the start of any encounter, Abra may re-roll 1 die.",,,63.png,No.O63,64.png,,No.O64,65.png,,No.O65,T0.png
-1,base3a.png,No.O66,MACHOP,66.png,THE SUPERPOWER POKÉMON,FIGHTING,6,5,3,3,,,,Whenever an opposing Pokemon is defeated Machop gives the active Pokemon a die of value 1 in the Attack Zone.,,,66.png,No.O66,67.png,,No.O67,68.png,,No.O68,T0.png
+1,base3a.png,No.O66,MACHOP,66.png,THE SUPERPOWER POKÉMON,FIGHTING,6,5,3,3,,,,"Whenever Machop increases its own ATK by 3 or more, it gains an additional +1 ATK.",,,66.png,No.O66,67.png,,No.O67,68.png,,No.O68,T0.png
 1,base3a.png,No.O69,BELLSPROUT,69.png,THE FLOWER POKÉMON,GRASS,4,6,3,3,,,,Whenever an opposing Pokemon is defeated Bellsprout Recovers 1 HP to the active Pokemon.,,,69.png,No.O69,70.png,,No.O7O,71.png,,No.O71,T1.png
 1,base2a.png,No.O72,TENTACOOL,72.png,THE JELLYFISH POKÉMON,WATER,3,4,5,6,,,,,,,72.png,No.O72,,,,73.png,,No.O73,T1.png
-1,base3a.png,No.O74,GEODUDE,74.png,THE ROCK POKÉMON,ROCK,3,5,5,2,,,,Whenever an opposing Pokemon is defeated Geodude gives the active Pokemon a die of value 1 in the Defense Zone.,,,74.png,No.O74,75.png,,No.O75,76.png,,No.O76,T0.png
-1,base2a.png,No.O79,SLOWPOKE,79.png,THE DOPEY POKÉMON,WATER,8,4,4,1,,,,"The first time a die enters an ally's Defense Zone, Krabby grants all allies +1 ATK.",,,79.png,No.O79,,,,80.png,,No.O8O,T1.png
+1,base3a.png,No.O74,GEODUDE,74.png,THE ROCK POKÉMON,ROCK,3,5,5,2,,,,"Whenever Geodude increases its own DEF by 3 or more, it gains an additional +1 DEF.",,,74.png,No.O74,75.png,,No.O75,76.png,,No.O76,T0.png
+1,base2a.png,No.O79,SLOWPOKE,79.png,THE DOPEY POKÉMON,WATER,8,4,4,1,,,,,,,79.png,No.O79,,,,80.png,,No.O8O,T1.png
 1,base2a.png,No.O81,MAGNEMITE,81.png,THE MAGNET POKÉMON,ELECTRIC,2,5,5,4,,,,"At the start of any encounter, Magnemite may re-roll 1 die.",,,81.png,No.O81,,,,82.png,,No.O82,T1.png
 1,base2a.png,No.O84,DODUO,84.png,THE TWIN BIRD POKÉMON,FLYING,3,5,3,6,,,,Doduo lets you move up to 2 spaces at a time.,,,84.png,No.O84,,,,85.png,,No.O85,T1.png
 1,base2a.png,No.O86,SEEL,86.png,THE SEA LION POKÉMON,ICE,5,4,5,4,,,,Whenever an opposing Pokemon is defeated Seel Freezes 1 die.,,,86.png,No.O86,,,,87.png,,No.O87,T1.png
@@ -42,17 +42,17 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 1,base2a.png,No.O9O,SHELLDER,90.png,THE BIVALVE POKÉMON,ICE,3,4,5,3,,,,Whenever a Rival defeats a Pokemon Shellder Freezes 1 die.,,,90.png,No.O9O,,,,91.png,,No.O91,T1.png
 1,base3a.png,No.O92,GASTLY,92.png,THE GAS POKÉMON,GHOST,2,5,3,7,,,,"At the start of Round, Gastly forcing Rival to Discard 1 Card.",,,92.png,No.O92,93.png,,No.O93,94.png,,No.O94,T1.png
 1,base2a.png,No.O96,DROWZEE,96.png,THE HYPNOSIS POKÉMON,PSYCHIC,5,4,5,4,,,,"Whenever you play a Psychic-type move, Drowzee changes any die value by 1.",,,96.png,No.O96,,,,97.png,,No.O97,T1.png
-1,base2a.png,No.O98,KRABBY,98.png,THE RIVER CRAB POKÉMON,WATER,2,5,5,4,,,,"The first time an ally loses HP, Horsea draws 1.",,,98.png,No.O98,,,,99.png,,No.O99,T1.png
+1,base2a.png,No.O98,KRABBY,98.png,THE RIVER CRAB POKÉMON,WATER,2,5,5,4,,,,"The first time a die enters an ally's Defense Zone, Krabby grants all allies +1 ATK.",,,98.png,No.O98,,,,99.png,,No.O99,T1.png
 1,base2a.png,No.1OO,VOLTORB,100.png,THE BALL POKÉMON,ELECTRIC,3,4,4,8,,,,"The first time the active Pokemon defeats an opposing Pokemon, Voltorb Recharges 1.",,,100.png,No.1OO,,,,101.png,,No.1O1,T1.png
 1,base2a.png,No.1O4,CUBONE,104.png,THE LONELY POKÉMON,GROUND,4,3,6,3,,,,"The first time an ally performs a Move, Cubone may place the used card back on top of the deck, rather than discard it.",,,104.png,No.1O4,,,,105.png,,No.1O5,T1.png
 1,base2a.png,No.1O9,KOFFING,109.png,THE POISON GAS POKÉMON,POISON,3,5,6,3,,,,"Whenever a Rival plays a Poison Card, Koffing deals 1 damage to the active Pokemon.",,,109.png,No.1O9,,,,110.png,,No.11O,T1.png
-1,base2a.png,No.116,HORSEA,116.png,THE DRAGON POKÉMON,WATER,3,4,4,5,,,,"The first time a die enters an ally's Attack Zone, Goldeen grants all allies +1 DEF.",,,116.png,No.116,,,,117.png,,No.117,T1.png
-1,base2a.png,No.118,GOLDEEN,118.png,THE GOLDFISH POKÉMON,WATER,4,4,4,5,,,,,,,118.png,No.118,,,,119.png,,No.119,T1.png
+1,base2a.png,No.116,HORSEA,116.png,THE DRAGON POKÉMON,WATER,3,4,4,5,,,,"The first time an ally loses HP, Horsea draws 1.",,,116.png,No.116,,,,117.png,,No.117,T1.png
+1,base2a.png,No.118,GOLDEEN,118.png,THE GOLDFISH POKÉMON,WATER,4,4,4,5,,,,"The first time a die enters an ally's Attack Zone, Goldeen grants all allies +1 DEF.",,,118.png,No.118,,,,119.png,,No.119,T1.png
 1,base2a.png,No.12O,STARYU,120.png,THE STAR SHAPE POKÉMON,WATER,3,5,4,7,,,,,,,120.png,No.12O,,,,121.png,,No.121,T1.png
 1,base1.png,No.132,DITTO,132.png,THE TRANSFORM POKÉMON,NORMAL,4,4,4,4,,,,"Whenever Ditto is sent into battle, you may put another Pokemon you own in its place.",,,,,,132.png,No.132,,,,T1.png
-1,base3b.png,No.OO2,IVYSAUR,2.png,THE SEED POKÉMON,GRASS,5,5,6,5,,,,"Whenever you play a Grass-type move, Ivysaur Recovers 2 HP to the active Pokemon.",,1.png,,No.OO1,,2.png,No.OO2,3.png,,No.OO3,T2.png
-1,base3b.png,No.OO5,CHARMELEON,5.png,THE FLAME POKÉMON,FIRE,5,6,5,6,,,,"Whenever you play a Fire-type move, Charmeleon adds up to 2 to any die.",*Burned die:* Burned dice will not be rolled the next round,4.png,,No.OO4,,5.png,No.OO5,6.png,,No.OO6,T2.png
-1,base3b.png,No.OO8,WARTORTLE,8.png,THE TURTLE POKÉMON,WATER,5,5,6,5,,,,"Whenever you play a Water-type move, Wartortle subtracts up to 2 to any die.",,7.png,,No.OO7,,8.png,No.OO8,9.png,,No.OO9,T2.png
+1,base3b.png,No.OO2,IVYSAUR,2.png,THE SEED POKÉMON,GRASS,5,5,6,5,,,,The first time an opposing Pokemon is defeated during your turns. Ivysaur adds a die of value 2 to the active Pokemon's Dice Zone.,,1.png,,No.OO1,,2.png,No.OO2,3.png,,No.OO3,T2.png
+1,base3b.png,No.OO5,CHARMELEON,5.png,THE FLAME POKÉMON,FIRE,5,6,5,6,,,,The first time an opposing Pokemon is defeated during your turns. Charmeleon adds a die of value 3 into the active Pokemon's Attack Zone.,*Burned die:* Burned dice will not be rolled the next round,4.png,,No.OO4,,5.png,No.OO5,6.png,,No.OO6,T2.png
+1,base3b.png,No.OO8,WARTORTLE,8.png,THE TURTLE POKÉMON,WATER,5,5,6,5,,,,The first time an opposing Pokemon is defeated during your turns. Wartortle adds a die of value 3 into the active Pokemon's Defense Zone.,,7.png,,No.OO7,,8.png,No.OO8,9.png,,No.OO9,T2.png
 1,base3c.png,No.O12,BUTTERFREE,12.png,THE BUTTERFLY POKÉMON,BUG,5,5,5,6,,,,"Butterfree gives allies DEF equal to number of Bug type Pokemon owned.
 
 (DEF cannot exceed 12)",,10.png,,No.O1O,11.png,,No.O11,,12.png,No.O12,T2.png
@@ -69,9 +69,9 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 1,base2b.png,No.O51,DUGTRIO,51.png,THE MOLE POKÉMON,GROUND,3,6,5,1O,,,,,"*Dig X:* Look at the top X cards, you may Discard any of them instead.",50.png,,No.O5O,,,,,51.png,No.O51,T2.png
 1,base3b.png,No.O61,POLIWHIRL,61.png,THE TADPOLE POKÉMON,WATER,5,5,5,7,,,,,,60.png,,No.O6O,,61.png,No.O61,62.png,,No.O62,T2.png
 1,base3b.png,No.O64,KADABRA,64.png,THE PSI POKÉMON,PSYCHIC,3,6,4,9,,,,"At the start of any encounter, Kadabra may re-roll up to 2 dice.",,63.png,,No.O63,,64.png,No.O64,65.png,,No.O65,T2.png
-1,base3b.png,No.O67,MACHOKE,67.png,THE SUPERPOWER POKÉMON,FIGHTING,7,6,5,4,,,,Whenever an opposing Pokemon is defeated Machoke gives the active Pokemon a die of value 2 in the Attack Zone.,,66.png,,No.O66,,67.png,No.O67,68.png,,No.O68,T2.png
+1,base3b.png,No.O67,MACHOKE,67.png,THE SUPERPOWER POKÉMON,FIGHTING,7,6,5,4,,,,"Whenever Machoke increases its own ATK by 2 or more, it gains an additional +1 ATK.",,66.png,,No.O66,,67.png,No.O67,68.png,,No.O68,T2.png
 1,base3b.png,No.O7O,WEEPINBELL,70.png,THE FLYCATCHER POKÉMON,GRASS,5,7,4,5,,,,Whenever an opposing Pokemon is defeated Weepinbell Recovers 2 HP to the active Pokemon.,,69.png,,No.O69,,70.png,No.O7O,71.png,,No.O71,T2.png
-1,base3b.png,No.O75,GRAVELER,75.png,THE ROCK POKÉMON,ROCK,5,6,6,3,,,,Whenever an opposing Pokemon is defeated Graveler gives the active Pokemon a die of value 2 in the Defense Zone.,,74.png,,No.O74,,75.png,No.O75,76.png,,No.O76,T2.png
+1,base3b.png,No.O75,GRAVELER,75.png,THE ROCK POKÉMON,ROCK,5,6,6,3,,,,"Whenever Graveler increases its own DEF by 2 or more, it gains an additional +1 DEF.",,74.png,,No.O74,,75.png,No.O75,76.png,,No.O76,T2.png
 1,base2a.png,No.O77,PONYTA,77.png,THE FIRE HORSE POKÉMON,FIRE,4,6,5,7,,,,"Whenever you Burn 3 or more Cards at once, Ponyta Draws 1.",*Burned die:* Burned dice will not be rolled the next round,,77.png,No.O77,,,,78.png,,No.O78,T2.png
 1,base2b.png,No.O82,MAGNETON,82.png,THE MAGNET POKÉMON,ELECTRIC,4,7,7,6,,,,"At the start of any encounter, Magneton may re-roll up to 3 dice.",,81.png,,No.O81,,,,,82.png,No.O82,T2.png
 1,base1.png,No.O83,FARFETCH'D,83.png,THE WILD DUCK POKÉMON,NORMAL,4,6,5,5,,,,"Whenever you encounter a Wild Pokemon, you may trade a Pokemon you own of equal rarity with the wild Pokemon. (Gain EXP for both Capture and Release)",,,,,,83.png,No.O83,,,,T2.png
@@ -84,11 +84,11 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 1,base1.png,No.1O7,HITMONCHAN,107.png,THE PUNCHING POKÉMON,FIGHTING,4,6,8,6,,,,"Whenever Hitmonchan uses a move containing the word 'Punch', repeat it.",,,,,,107.png,No.1O7,,,,T2.png
 1,base1.png,No.1O8,LICKITUNG,108.png,THE LICKING POKÉMON,NORMAL,8,5,6,3,,,,,,,,,,108.png,No.1O8,,,,T2.png
 1,base1.png,No.114,TANGELA,114.png,THE VINE POKÉMON,GRASS,6,6,6,5,,,,Tangela increase all your Recovery by 1.,,,,,,114.png,No.114,,,,T2.png
-1,base2b.png,No.117,SEADRA,117.png,THE DRAGON POKÉMON,WATER,5,6,6,7,,,,"Whenever a die enters an ally's Attack Zone, Seaking grants all allies +1 DEF.",,116.png,,No.116,,,,,117.png,No.117,T2.png
+1,base2b.png,No.117,SEADRA,117.png,THE DRAGON POKÉMON,WATER,5,6,6,7,,,,"Whenever an ally loses HP, Seadra draws 1.",,116.png,,No.116,,,,,117.png,No.117,T2.png
 1,base1.png,No.122,MR. MIME,122.png,THE BARRIER POKÉMON,PSYCHIC,3,6,7,8,,,,"Mr. Mime forces all 1's to become 12's, and 12's become 1's.",,,,,,122.png,No.122,,,,T2.png
-1,base3c.png,No.OO3,VENUSAUR,3.png,THE SEED POKÉMON,GRASS,7,7,7,7,,,,"Whenever you play a Grass-type move, Venusaur Recovers 3 HP to the active Pokemon.",,1.png,,No.OO1,2.png,,No.OO2,,3.png,No.OO3,T3.png
-1,base3c.png,No.OO6,CHARIZARD,6.png,THE FLAME POKÉMON,FIRE,6,8,7,7,,,,"Whenever you play a Fire-type move, Charziard adds up to 3 to any die.",*Burned die:* Burned dice will not be rolled the next round,4.png,,No.OO4,5.png,,No.OO5,,6.png,No.OO6,T3.png
-1,base3c.png,No.OO9,BLASTOISE,9.png,THE SHELLFISH POKÉMON,WATER,7,7,8,6,,,,"Whenever you play a Water-type move, Blastoise subtracts up to 3 to any die.",,7.png,,No.OO7,8.png,,No.OO8,,9.png,No.OO9,T3.png
+1,base3c.png,No.OO3,VENUSAUR,3.png,THE SEED POKÉMON,GRASS,7,7,7,7,,,,The first time an opposing Pokemon is defeated during your turns. Venusaur adds a die of value 3 to the active Pokemon's Dice Zone.,,1.png,,No.OO1,2.png,,No.OO2,,3.png,No.OO3,T3.png
+1,base3c.png,No.OO6,CHARIZARD,6.png,THE FLAME POKÉMON,FIRE,6,8,7,7,,,,The first time an opposing Pokemon is defeated during your turns. Charizard adds a die of value 6 into the active Pokemon's Attack Zone.,*Burned die:* Burned dice will not be rolled the next round,4.png,,No.OO4,5.png,,No.OO5,,6.png,No.OO6,T3.png
+1,base3c.png,No.OO9,BLASTOISE,9.png,THE SHELLFISH POKÉMON,WATER,7,7,8,6,,,,The first time an opposing Pokemon is defeated during your turns. Blastoise adds a die of value 6 into the active Pokemon's Defense Zone.,,7.png,,No.OO7,8.png,,No.OO8,,9.png,No.OO9,T3.png
 1,base3c.png,No.O18,PIDGEOT,18.png,THE BIRD POKÉMON,FLYING,7,6,6,8,,,,Pidgeot gives the active Pokemon +3 SPD.,,16.png,,No.O16,17.png,,No.O17,,18.png,No.O18,T3.png
 1,base2b.png,No.O22,FEAROW,22.png,THE BEAK POKÉMON,FLYING,6,6,5,8,,,,Whenever an opposing Pokemon is defeated Fearow let's the active Pokemon Discard X to Draw X.,,21.png,,No.O21,,,,,22.png,No.O22,T3.png
 1,base2b.png,No.O26,RAICHU,26.png,THE MOUSE POKÉMON,ELECTRIC,5,7,6,9,,,,"Whenever you Recharge, Raichu rerolls up to 2 dice of your choice.",,25.png,,No.O25,,,,,26.png,No.O26,T3.png
@@ -107,12 +107,12 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 1,base2b.png,No.O59,ARCANINE,59.png,THE LEGENDARY POKÉMON,FIRE,8,8,6,8,,,,"Whenever you Burn 2 or more Cards at once, Arcanine Deals 1 damage directly.",*Burned die:* Burned dice will not be rolled the next round,58.png,,No.O58,,,,,59.png,No.O59,T3.png
 1,base3c.png,No.O62,POLIWRATH,62.png,THE TADPOLE POKÉMON,WATER,7,7,7,6,,,,,,60.png,,No.O6O,61.png,,No.O61,,62.png,No.O62,T3.png
 1,base3c.png,No.O65,ALAKAZAM,65.png,THE PSI POKÉMON,PSYCHIC,5,7,6,1O,,,,"At the start of any encounter, Alakazam may re-roll up to 3 dice.",,63.png,,No.O63,64.png,,No.O64,,65.png,No.O65,T3.png
-1,base3c.png,No.O68,MACHAMP,68.png,THE SUPERPOWER POKÉMON,FIGHTING,7,8,7,4,,,,Whenever an opposing Pokemon is defeated Machamp gives the active Pokemon a die of value 3 in the Attack Zone.,,66.png,,No.O66,67.png,,No.O67,,68.png,No.O68,T3.png
+1,base3c.png,No.O68,MACHAMP,68.png,THE SUPERPOWER POKÉMON,FIGHTING,7,8,7,4,,,,"Whenever Machamp increases its own ATK by 1 or more, it gains an additional +1 ATK.",,66.png,,No.O66,67.png,,No.O67,,68.png,No.O68,T3.png
 1,base3c.png,No.O71,VICTREEBEL,71.png,THE FLYCATCHER POKÉMON,GRASS,7,8,5,6,,,,Whenever an opposing Pokemon is defeated Victreebel Recovers 3 HP to the active Pokemon.,,69.png,,No.O69,70.png,,No.O7O,,71.png,No.O71,T3.png
 1,base2b.png,No.O73,TENTACRUEL,73.png,THE JELLYFISH POKÉMON,WATER,7,6,7,8,,,,,,72.png,,No.O72,,,,,73.png,No.O73,T3.png
-1,base3c.png,No.O76,GOLEM,76.png,THE MEGATON POKÉMON,ROCK,6,7,8,4,,,,Whenever an opposing Pokemon is defeated Golem gives the active Pokemon a die of value 3 in the Defense Zone.,,74.png,,No.O74,75.png,,No.O75,,76.png,No.O76,T3.png
+1,base3c.png,No.O76,GOLEM,76.png,THE MEGATON POKÉMON,ROCK,6,7,8,4,,,,"Whenever Golem increases its own DEF by 1 or more, it gains an additional +1 DEF.",,74.png,,No.O74,75.png,,No.O75,,76.png,No.O76,T3.png
 1,base2b.png,No.O78,RAPIDASH,78.png,THE FIRE HORSE POKÉMON,FIRE,5,7,6,9,,,,"Whenever you Burn 2 or more Cards at once, Ponyta Draws 1.",*Burned die:* Burned dice will not be rolled the next round,77.png,,No.O77,,,,,78.png,No.O78,T3.png
-1,base2b.png,No.O8O,SLOWBRO,80.png,THE HERMIT CRAB POKÉMON,WATER,8,7,8,2,,,,"Whenever a die enters an ally's Defense Zone, Kingler grants all allies +1 ATK.",,79.png,,No.O79,,,,,80.png,No.O8O,T3.png
+1,base2b.png,No.O8O,SLOWBRO,80.png,THE HERMIT CRAB POKÉMON,WATER,8,7,8,2,,,,,,79.png,,No.O79,,,,,80.png,No.O8O,T3.png
 1,base2b.png,No.O85,DODRIO,85.png,THE TRIPLE BIRD POKÉMON,FLYING,5,7,5,9,,,,Dodrio lets you move up to 3 spaces at a time.,,84.png,,No.O84,,,,,85.png,No.O85,T3.png
 1,base2b.png,No.O87,DEWGONG,87.png,THE SEA LION POKÉMON,ICE,7,6,7,6,,,,Whenever an opposing Pokemon is defeated Dewgong Freezes up to 3 dice.,,86.png,,No.O86,,,,,87.png,No.O87,T3.png
 1,base2b.png,No.O89,MUK,89.png,THE SLUDGE POKÉMON,POISON,9,7,7,4,,,,"Grimer turns ALL Poison Cards into Badly Poison Cards.
@@ -121,10 +121,10 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 1.",,88.png,,No.O88
 1,base2b.png,No.O91,CLOYSTER,91.png,THE BIVALVE POKÉMON,ICE,4,7,9,6,,,,Whenever a Rival defeats a Pokemon Cloyster Freezes up to 3 dice.,,90.png,,No.O9O,,,,,91.png,No.O91,T3.png
 1,base3c.png,No.O94,GENGAR,94.png,THE SHADOW POKÉMON,GHOST,5,8,5,9,,,,"At the start of Round, Haunter forcing Rival to Discard 3 Cards.",,92.png,,No.O92,93.png,,No.O93,,94.png,No.O94,T3.png
 1,base2b.png,No.O97,HYPNO,97.png,THE HYPNOSIS POKÉMON,PSYCHIC,7,6,7,6,,,,"Whenever you play a Psychic-type move, Hypno changes any die value by up to 2.",,96.png,,No.O96,,,,,97.png,No.O97,T3.png
-1,base2b.png,No.O99,KINGLER,99.png,THE PINCER POKÉMON,WATER,5,7,7,6,,,,"Whenever an ally loses HP, Seadra draws 1.",,98.png,,No.O98,,,,,99.png,No.O99,T3.png
+1,base2b.png,No.O99,KINGLER,99.png,THE PINCER POKÉMON,WATER,5,7,7,6,,,,"Whenever a die enters an ally's Defense Zone, Kingler grants all allies +1 ATK.",,98.png,,No.O98,,,,,99.png,No.O99,T3.png
 1,base2b.png,No.1O1,ELECTRODE,101.png,THE BALL POKÉMON,ELECTRIC,5,5,6,13,,,,"The first time the active Pokemon defeats an opposing Pokemon, Electrode Recharges 2.",,100.png,,No.1OO,,,,,101.png,No.1O1,T3.png
 1,base2b.png,No.11O,WEEZING,110.png,THE POISON GAS POKÉMON,POISON,5,7,8,5,,,,"Whenever a Rival plays a Poison Card, Weezing deals 2 damage to the active Pokemon.",,109.png,,No.1O9,,,,,110.png,No.11O,T3.png
-1,base2b.png,No.119,SEAKING,119.png,THE GOLDFISH POKÉMON,WATER,7,6,6,6,,,,,,118.png,,No.118,,,,,119.png,No.119,T3.png
+1,base2b.png,No.119,SEAKING,119.png,THE GOLDFISH POKÉMON,WATER,7,6,6,6,,,,"Whenever a die enters an ally's Attack Zone, Seaking grants all allies +1 DEF.",,118.png,,No.118,,,,,119.png,No.119,T3.png
 1,base2b.png,No.121,STARMIE,121.png,THE MYSTERIOUS POKÉMON,WATER,5,7,7,9,,,,,,120.png,,No.12O,,,,,121.png,No.121,T3.png
 1,base1.png,No.124,JYNX,124.png,THE HUMAN SHAPE POKÉMON,ICE,5,7,5,8,,,,,,,,,,124.png,No.124,,,,T3.png
 1,base1.png,No.125,ELECTABUZZ,125.png,THE ELECTRIC POKÉMON,ELECTRIC,5,7,6,9,,,,,,,,,,125.png,No.125,,,,T3.png
