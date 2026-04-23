@@ -27,7 +27,7 @@ units,base,id,name,sprite,title,type,hp,atk,def,spd,trigger,trigger2,trigger3,ab
 1,base2a.png,No.O56,MANKEY,56.png,THE PIG MONKEY POKÉMON,FIGHTING,3,5,3,6,,,,Whenever an opposing Pokemon is defeated Mankey gives the active Pokemon +1 ATK.,,,56.png,No.O56,,,,57.png,,No.O57,T1.png
 1,base2a.png,No.O58,GROWLITHE,58.png,THE PUPPY POKÉMON,FIRE,4,6,4,5,,,,"Whenever you Burn 3 or more Cards at once, Growlithe Deals 1 damage directly.",*Burned die:* Burned dice will not be rolled the next round,,58.png,No.O58,,,,59.png,,No.O59,T1.png
 1,base3a.png,No.O6O,POLIWAG,60.png,THE TADPOLE POKÉMON,WATER,3,4,3,8,,,,,,,60.png,No.O6O,61.png,,No.O61,62.png,,No.O62,T1.png
-1,base3a.png,No.O63,ABRA,63.png,THE PSI POKÉMON,PSYCHIC,2,5,3,7,,,,"At the start of any encounter, Abra may re-roll 1 die.",,,63.png,No.O63,64.png,,No.O64,65.png,,No.O65,T0.png
+1,base3a.png,No.O63,ABRA,63.png,THE PSI POKÉMON,PSYCHIC,2,5,3,7,,,,"At the start of your Round before drawing an Event, Abra may look at the top card of the Event deck. It may put it on the bottom instead.",,,63.png,No.O63,64.png,,No.O64,65.png,,No.O65,T0.png
 1,base3a.png,No.O66,MACHOP,66.png,THE SUPERPOWER POKÉMON,FIGHTING,6,5,3,3,,,,"Whenever Machop increases its own ATK by 3 or more, it gains an additional +1 ATK.",,,66.png,No.O66,67.png,,No.O67,68.png,,No.O68,T0.png
 1,base3a.png,No.O69,BELLSPROUT,69.png,THE FLOWER POKÉMON,GRASS,4,6,3,3,,,,Whenever an opposing Pokemon is defeated Bellsprout Recovers 1 HP to the active Pokemon.,,,69.png,No.O69,70.png,,No.O7O,71.png,,No.O71,T1.png
 1,base2a.png,No.O72,TENTACOOL,72.png,THE JELLYFISH POKÉMON,WATER,3,4,5,6,,,,,,,72.png,No.O72,,,,73.png,,No.O73,T1.png
@@ -41,7 +41,7 @@ units,base,id,name,sprite,title,type,hp,atk,def,spd,trigger,trigger2,trigger3,ab
 Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88,,,,89.png,,No.O89,T1.png
 1,base2a.png,No.O9O,SHELLDER,90.png,THE BIVALVE POKÉMON,ICE,3,4,5,3,,,,Whenever a Rival defeats a Pokemon Shellder Freezes 1 die.,,,90.png,No.O9O,,,,91.png,,No.O91,T1.png
 1,base3a.png,No.O92,GASTLY,92.png,THE GAS POKÉMON,GHOST,2,5,3,7,,,,"At the start of Round, Gastly forcing Rival to Discard 1 Card.",,,92.png,No.O92,93.png,,No.O93,94.png,,No.O94,T1.png
-1,base2a.png,No.O96,DROWZEE,96.png,THE HYPNOSIS POKÉMON,PSYCHIC,5,4,5,4,,,,"Whenever you play a Psychic-type move, Drowzee changes any die value by 1.",,,96.png,No.O96,,,,97.png,,No.O97,T1.png
+1,base2a.png,No.O96,DROWZEE,96.png,THE HYPNOSIS POKÉMON,PSYCHIC,5,4,5,4,,,,"Whenever an event requires you to roll, you may forego doing so. Instead, Drowzee gives you a die of 1 or 12.",,,96.png,No.O96,,,,97.png,,No.O97,T1.png
 1,base2a.png,No.O98,KRABBY,98.png,THE RIVER CRAB POKÉMON,WATER,2,5,5,4,,,,"The first time a die enters an ally's Defense Zone, Krabby grants all allies +1 ATK.",,,98.png,No.O98,,,,99.png,,No.O99,T1.png
 1,base2a.png,No.1OO,VOLTORB,100.png,THE BALL POKÉMON,ELECTRIC,3,4,4,8,,,,"The first time the active Pokemon defeats an opposing Pokemon, Voltorb Recharges 1.",,,100.png,No.1OO,,,,101.png,,No.1O1,T1.png
 1,base2a.png,No.1O4,CUBONE,104.png,THE LONELY POKÉMON,GROUND,4,3,6,3,,,,"The first time an ally performs a Move, Cubone may place the used card back on top of the deck, rather than discard it.",,,104.png,No.1O4,,,,105.png,,No.1O5,T1.png
@@ -68,7 +68,7 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 1,base2b.png,No.O47,PARASECT,47.png,THE MUSHROOM POKÉMON,BUG,5,6,6,3,,,,"At the start of your turn, Parasect may fill out empty slots on your current route equal to the number of Bug types you own",,46.png,,No.O46,,,,,47.png,No.O47,T2.png
 1,base2b.png,No.O51,DUGTRIO,51.png,THE MOLE POKÉMON,GROUND,3,6,5,1O,,,,,"*Dig X:* Look at the top X cards, you may Discard any of them instead.",50.png,,No.O5O,,,,,51.png,No.O51,T2.png
 1,base3b.png,No.O61,POLIWHIRL,61.png,THE TADPOLE POKÉMON,WATER,5,5,5,7,,,,,,60.png,,No.O6O,,61.png,No.O61,62.png,,No.O62,T2.png
-1,base3b.png,No.O64,KADABRA,64.png,THE PSI POKÉMON,PSYCHIC,3,6,4,9,,,,"At the start of any encounter, Kadabra may re-roll up to 2 dice.",,63.png,,No.O63,,64.png,No.O64,65.png,,No.O65,T2.png
+1,base3b.png,No.O64,KADABRA,64.png,THE PSI POKÉMON,PSYCHIC,3,6,4,9,,,,"At the start of your Round before drawing an Event, Kadabra may look at the top 2 cards of the Event deck. It may put any on the bottom instead.",,63.png,,No.O63,,64.png,No.O64,65.png,,No.O65,T2.png
 1,base3b.png,No.O67,MACHOKE,67.png,THE SUPERPOWER POKÉMON,FIGHTING,7,6,5,4,,,,"Whenever Machoke increases its own ATK by 2 or more, it gains an additional +1 ATK.",,66.png,,No.O66,,67.png,No.O67,68.png,,No.O68,T2.png
 1,base3b.png,No.O7O,WEEPINBELL,70.png,THE FLYCATCHER POKÉMON,GRASS,5,7,4,5,,,,Whenever an opposing Pokemon is defeated Weepinbell Recovers 2 HP to the active Pokemon.,,69.png,,No.O69,,70.png,No.O7O,71.png,,No.O71,T2.png
 1,base3b.png,No.O75,GRAVELER,75.png,THE ROCK POKÉMON,ROCK,5,6,6,3,,,,"Whenever Graveler increases its own DEF by 2 or more, it gains an additional +1 DEF.",,74.png,,No.O74,,75.png,No.O75,76.png,,No.O76,T2.png
@@ -106,7 +106,7 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 1,base2b.png,No.O57,PRIMEAPE,57.png,THE PIG MONKEY POKÉMON,FIGHTING,5,7,5,8,,,,Whenever an opposing Pokemon is defeated Primeape gives the active Pokemon +2 ATK.,,56.png,,No.O56,,,,,57.png,No.O57,T3.png
 1,base2b.png,No.O59,ARCANINE,59.png,THE LEGENDARY POKÉMON,FIRE,8,8,6,8,,,,"Whenever you Burn 2 or more Cards at once, Arcanine Deals 1 damage directly.",*Burned die:* Burned dice will not be rolled the next round,58.png,,No.O58,,,,,59.png,No.O59,T3.png
 1,base3c.png,No.O62,POLIWRATH,62.png,THE TADPOLE POKÉMON,WATER,7,7,7,6,,,,,,60.png,,No.O6O,61.png,,No.O61,,62.png,No.O62,T3.png
-1,base3c.png,No.O65,ALAKAZAM,65.png,THE PSI POKÉMON,PSYCHIC,5,7,6,1O,,,,"At the start of any encounter, Alakazam may re-roll up to 3 dice.",,63.png,,No.O63,64.png,,No.O64,,65.png,No.O65,T3.png
+1,base3c.png,No.O65,ALAKAZAM,65.png,THE PSI POKÉMON,PSYCHIC,5,7,6,1O,,,,"At the start of your Round before drawing an Event, Alakazam may look at the top 3 cards of the Event deck. It may put any on the bottom instead.",,63.png,,No.O63,64.png,,No.O64,,65.png,No.O65,T3.png
 1,base3c.png,No.O68,MACHAMP,68.png,THE SUPERPOWER POKÉMON,FIGHTING,7,8,7,4,,,,"Whenever Machamp increases its own ATK by 1 or more, it gains an additional +1 ATK.",,66.png,,No.O66,67.png,,No.O67,,68.png,No.O68,T3.png
 1,base3c.png,No.O71,VICTREEBEL,71.png,THE FLYCATCHER POKÉMON,GRASS,7,8,5,6,,,,Whenever an opposing Pokemon is defeated Victreebel Recovers 3 HP to the active Pokemon.,,69.png,,No.O69,70.png,,No.O7O,,71.png,No.O71,T3.png
 1,base2b.png,No.O73,TENTACRUEL,73.png,THE JELLYFISH POKÉMON,WATER,7,6,7,8,,,,,,72.png,,No.O72,,,,,73.png,No.O73,T3.png
@@ -120,7 +120,7 @@ Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 2.",,,88.png,No.O88
 Badly Poison: Deal 2 Damage to the Active Pokemon, then Draw 1.",,88.png,,No.O88,,,,,89.png,No.O89,T3.png
 1,base2b.png,No.O91,CLOYSTER,91.png,THE BIVALVE POKÉMON,ICE,4,7,9,6,,,,Whenever a Rival defeats a Pokemon Cloyster Freezes up to 3 dice.,,90.png,,No.O9O,,,,,91.png,No.O91,T3.png
 1,base3c.png,No.O94,GENGAR,94.png,THE SHADOW POKÉMON,GHOST,5,8,5,9,,,,"At the start of Round, Haunter forcing Rival to Discard 3 Cards.",,92.png,,No.O92,93.png,,No.O93,,94.png,No.O94,T3.png
-1,base2b.png,No.O97,HYPNO,97.png,THE HYPNOSIS POKÉMON,PSYCHIC,7,6,7,6,,,,"Whenever you play a Psychic-type move, Hypno changes any die value by up to 2.",,96.png,,No.O96,,,,,97.png,No.O97,T3.png
+1,base2b.png,No.O97,HYPNO,97.png,THE HYPNOSIS POKÉMON,PSYCHIC,7,6,7,6,,,,"Whenever an event requires you to roll, you may forego doing so. Instead, Hypno gives you a dice with the value of your choice.",,96.png,,No.O96,,,,,97.png,No.O97,T3.png
 1,base2b.png,No.O99,KINGLER,99.png,THE PINCER POKÉMON,WATER,5,7,7,6,,,,"Whenever a die enters an ally's Defense Zone, Kingler grants all allies +1 ATK.",,98.png,,No.O98,,,,,99.png,No.O99,T3.png
 1,base2b.png,No.1O1,ELECTRODE,101.png,THE BALL POKÉMON,ELECTRIC,5,5,6,13,,,,"The first time the active Pokemon defeats an opposing Pokemon, Electrode Recharges 2.",,100.png,,No.1OO,,,,,101.png,No.1O1,T3.png
 1,base2b.png,No.11O,WEEZING,110.png,THE POISON GAS POKÉMON,POISON,5,7,8,5,,,,"Whenever a Rival plays a Poison Card, Weezing deals 2 damage to the active Pokemon.",,109.png,,No.1O9,,,,,110.png,No.11O,T3.png
