@@ -35,16 +35,16 @@ X: Number of Fighting moves in your play area",6,,
 1,baseplayer.png,Fire Blast,fire.png,Fire,"Target die gains +11, then Burn 3
 
 Burn: Place a card from your hand in the Burn Zone",11,,
-1,baseplayer.png,Ember,fire.png,Fire,"Target die gains +2, then Burn 1
+1,baseplayer.png,Ember,fire.png,Fire,"Target die gains +4, then Burn 1
 
 Burn: Place a card from your hand in the Burn Zone",5,,
 1,baseplayer.png,Flamethrower,fire.png,Fire,"Target die gains +6, then Burn 2
 
 Burn: Place a card from your hand in the Burn Zone",7,,
-1,baseplayer.png,Fire Punch,fire.png,Fire,"Target die gets +5 , then Burn 1.
+1,baseplayer.png,Fire Punch,fire.png,Fire,"Target die gets +6 , then all Trainers Burn 1.
 
 Burn: Place a card from your hand in the Burn Zone",8,,
-1,baseplayer.png,Fire Spin,fire.png,Fire,"Whenever you Burn, the trainer of the opposing Pokemon also has to Burn.
+1,baseplayer.png,Fire Spin,fire.png,Fire,"Whenever you Burn, all other Trainers also have to Burn.
 
 Burn: Place a card from your hand in the Burn Zone",9,,
 1,baseplayer.png,Fly,flying.png,Flying,"Can only be played before moving this turn.
@@ -117,7 +117,7 @@ Freeze 1.",12,,
 1,baseplayer.png,Dizzy Punch,normal.png,Normal,"Roll 1D6:
 4-6: Nothing Happens
 1-3: Rival Discards 1 Card",6,,
-1,baseplayer.png,Fury Swipes,normal.png,Normal,"Target 2 dice, they both gain -1.",3,,
+1,baseplayer.png,Fury Swipes,normal.png,Normal,"Target 2 dice, one gains +1, the other -1",3,,
 1,baseplayer.png,Tackle,normal.png,Normal,Target die gains -1,0,,
 1,baseplayer.png,Quick Attack,normal.png,Normal,"Target die gets -1.
 Quick Attack does not pass priority",3,,
@@ -128,6 +128,7 @@ Quick Attack does not pass priority",3,,
 1,baseplayer.png,Flash,normal.png,Normal,You may look at your Rival's hand,6,,
 1,baseplayer.png,Roar,normal.png,Normal,"You may replace your encountered wild Pokemon, with another one of your choice from ANY Route deck",6,,
 1,baseplayer.png,Whirlwind,normal.png,Normal,"You may replace your encountered wild Pokemon, with top card of your choice from ANY Route deck",12,,
+1,baseplayer.png,Barrage,normal.png,Normal,Target die gains -1 per other card in your hand.,5,,
 1,baseplayer.png,Acid,poison.png,Poison,Add 1 Posion Card to your Rival's deck,8,,
 1,baseplayer.png,Sludge,poison.png,Poison,Add 2 Poison Cards to your Rival's Deck,12,,
 1,baseplayer.png,Smog,poison.png,Poison,Discard any number of dice you own. Rival adds Poison Cards equal to the number of dice Discarded.,16,,
@@ -149,16 +150,10 @@ Quick Attack does not pass priority",3,,
 1,baseplayer.png,HM Flash,electric.png,Electric,Can use tunnels,,,
 1,baseplayer.png,Rare Candy,normal.png,Normal,Gain +1 EXP,,,
 1,baseplayer.png,Evolution Stone,normal.png,Normal,Gain +2 EXP,,,
-1,baseplayer.png,Fossil,rock.png,Rock,Can be exchanged,,,
-1,baseplayer.png,X Attack,normal.png,Normal,Active Pokemon gains +1 ATK,,,
-1,baseplayer.png,X Defend,normal.png,Normal,Active Pokemon gains +1 DEF,,,1
-1,baseplayer.png,X Speed,normal.png,Normal,Draw 2 Card,,,1
+1,baseplayer.png,Fossil,rock.png,Rock,Can be exchanged,,,1
+1,baseplayer.png,X Attack,normal.png,Normal,Active Pokemon gains +1 ATK,,,1
+1,baseplayer.png,X Defend,normal.png,Normal,Active Pokemon gains +1 DEF,,,
+1,baseplayer.png,X Speed,normal.png,Normal,Draw 2 Card,,,
+1,baseplayer.png,Guard Spec,normal.png,Normal,Target die gains -2,,,
+1,baseplayer.png,Dire Hit,noraml.png,Noraml,Target die gains +2,,,
 1,baseplayer.png,Potion,normal.png,Normal,Recover 1 HP,,,
-1,baseplayer.png,Poke Doll,normal.png,Normal,Draw 1 additional Pokemon to choose your encounter from.,,,
-1,baseplayer.png,Escape Rope,ground.png,Ground,Escape the encounter and immediately end the active Pokemon's turn. You do not gain EXP for the escaped encounter.,,,
-1,baseplayer.png,X Accuracy,normal.png,Normal,Target die gains +/- 1,,,
-1,baseplayer.png,Repel,normal.png,Normal,Place 1 wild Pokemon available for encounter on the bottom. Then draw 1 new encounter.,,,
-1,baseplayer.png,Super Repel,normal.png,Normal,Place 1 any number of wild Pokemon available for encounter on the bottom. Then draw an equal number of new encounters.,,,
-1,baseplayer.png,Poke Flute,normal.png,Normal,Encounter Snorlax or place 1 wild Pokemon available for encounter on the bottom. Then draw 1 new encounter.,,,
-1,baseplayer.png,X Special,normal.png,Normal,Reroll 1 die,,,
-,baseplayer.png,,#N/A,#N/A,#N/A,#N/A,,
