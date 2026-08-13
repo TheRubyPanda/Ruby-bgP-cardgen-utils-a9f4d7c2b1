@@ -1,0 +1,136 @@
+units,base,name,img,type,effect,EXP,stat,change,STAB
+1,baseplayer.png,Tackle,normal.png,NormalType.png,Target die gains -1,2,,,
+1,baseplayer.png,Twineedle,bug.png,BugType.png,"Target 2 ally dice, they gain -1",3,,,Repeat this move
+1,baseplayer.png,Pin Missile,bug.png,BugType.png,Target die gets -2.,3,,,Repeat this move
+1,baseplayer.png,Thunder Shock,electric.png,ElectricType.png,Target die gets +2,3,,,"Paralyze 1
+"
+1,baseplayer.png,Counter,fighting.png,FightingType.png,"Target die gains -X.
+
+X: the number of dice in the opponent's Attack Zone",3,,,X+1
+1,baseplayer.png,Fire Spin,fire.png,FireType.png,You may Burn X to target X number of dice. They all increase in value equal to the number of cards in your Burn Zone.,3,,,Increase value gains +1
+1,baseplayer.png,Peck,flying.png,FlyingType.png,Target die gets -2,3,,,Draw +1 Card
+1,baseplayer.png,Bone Club,ground.png,GroundType.png,"Target 2 dice, they gain -1.",3,,,Dig 2
+1,baseplayer.png,Bonemerang,ground.png,GroundType.png,Target die gains -2.,3,,,Discard to deck
+1,baseplayer.png,Confusion,psychic.png,PsychicType.png,Give any die +1 or -1,3,,,Scry 1
+1,baseplayer.png,Psywave,psychic.png,PsychicType.png,"Move 1 die from an Attack Zone to Defense Zone, or from Defense Zone to Attack Zone. The Zones must be owned by the same player.",3,,,Scry 1
+1,baseplayer.png,Leech Life,bug.png,BugType.png,"Target 2 dice of equal value, give one -1 and the other +1.",4,,,Repeat this move
+1,baseplayer.png,Fury Swipes,normal.png,NormalType.png,"Target 2 dice, one gains +1, the other -1",4,,,
+1,baseplayer.png,Rock Throw,rock.png,RockType.png,Move 1 die from your Attack Zone to your Defense Zone regardless of stats,4,,,
+1,baseplayer.png,Withdraw,water.png,WaterType.png,Move 1 die from your Attack Zone to your Defense Zone regardless of stats,4,,,
+1,baseplayer.png,String Shot,bug.png,BugType.png,Target die gets -4,5,,,Repeat this move
+1,baseplayer.png,Thunder Wave,electric.png,ElectricType.png,"Paralyze 1
+",5,,,
+1,baseplayer.png,Ember,fire.png,FireType.png,Target die gets +2. Repeat this effect for every card in your Burn Zone.,5,,,Burn up to 1
+1,baseplayer.png,Wing Attack,flying.png,FlyingType.png,Draw +1 Card,5,,,Draw +1 Card
+1,baseplayer.png,Growl,normal.png,NormalType.png,Enemy gains -1 ATK till the end of Turn,5,ATK,-1,
+1,baseplayer.png,Growth,normal.png,NormalType.png,Gain +1 ATK till the end of Turn,5,ATK,1,
+1,baseplayer.png,Harden,normal.png,NormalType.png,Gain +1 DEF till the end of Turn,5,DEF,1,
+1,baseplayer.png,Leer,normal.png,NormalType.png,Target gains -1 DEF till the end of Turn,5,DEF,-1,
+1,baseplayer.png,Flash,normal.png,NormalType.png,You may look at your Rival's hand,5,,,
+1,baseplayer.png,Barrage,normal.png,NormalType.png,Target die gains -1 per other card in your hand.,5,,,
+1,baseplayer.png,Fire Punch,fire.png,FireType.png,"Target die gets +6, then Burn 1.",6,,,Burn up to 1
+1,baseplayer.png,Leech Seed,grass.png,GrassType.png,"1 die of your choice gains -1.
+1 die of your choice gains +1.",6,,,Recover 1 HP
+1,baseplayer.png,Dig,ground.png,GroundType.png,Dig 3,6,,,
+1,baseplayer.png,Aurora Beam,ice.png,IceType.png,"Freeze 1, then Enemy gains -DEF",6,,,Freeze 1 die
+1,baseplayer.png,Focus Energy,normal.png,NormalType.png,Gain +1 EXP. Gain an additional +2 EXP if you defeated a Pokemon this turn,6,,,
+1,baseplayer.png,Quick Attack,normal.png,NormalType.png,"Target die gets -1. Then Draw 1.
+Quick Attack does not pass priority",6,,,
+1,baseplayer.png,Rest,psychic.png,PsychicType.png,Scry 2,6,,,Scry 1
+1,baseplayer.png,Psybeam,psychic.png,PsychicType.png,"Move up to 2 dice from an Attack Zone to Defense Zone, or from Defense Zone to Attack Zone. The Zones must be owned by the same player.",6,,,Scry 2
+1,baseplayer.png,Jump Kick,fighting.png,FightingType.png,"Target 1 ally die, it gains +2 X times.
+If this move would ever increase the die above 12. Change it to 1.
+
+X: Number of Fighting moves in your Discard",7,,,X+1
+1,baseplayer.png,Drill Peck,flying.png,FlyingType.png,Target die gets -6,7,,,Draw +2 Cards
+1,baseplayer.png,Mirror Move,flying.png,FlyingType.png,Target die gains -X. Where X is the number of cards in your hand.,7,,,Draw +2 Cards
+1,baseplayer.png,Tri Attack,normal.png,NormalType.png,"Burn 1.
+Paralyze 1.
+Freeze 1.",7,,,
+1,baseplayer.png,Double Kick,fighting.png,FightingType.png,"Target 2 dice, apply -X to one, and +X to the other
+
+X: Number of Fighting moves in your Discard",8,,,X+1
+1,baseplayer.png,Acid,poison.png,PoisonType.png,All ally dice gain either -1 or +1,8,,,Poison 1
+1,baseplayer.png,Toxic,poison.png,PoisonType.png,Poison 1,8,,,Poison 1
+1,baseplayer.png,Teleport,psychic.png,PsychicType.png,"At the end of this turn, move to the nearest City (you do not trigger the City ability)",8,,,
+1,baseplayer.png,Thunderbolt,electric.png,ElectricType.png,Target 3 dice get +2,9,,,"Paralyze 2
+"
+1,baseplayer.png,Hi Jump Kick,fighting.png,FightingType.png,"Target 1 ally die, it gains +3 X times. 
+If this move would ever increase the die above 12. Change it to 1.
+
+X: Number of Fighting moves in your Discard",9,,,X+1
+1,baseplayer.png,Flamethrower,fire.png,FireType.png,Target die gets +6. Repeat this effect for every card in your Burn Zone.,9,,,Burn up to 2
+1,baseplayer.png,Ice Beam,ice.png,IceType.png,"Freeze 2, then Enemy gains -ATK",9,,,Freeze 2 dice
+1,baseplayer.png,Double Slap,normal.png,NormalType.png,Re-roll 1 die twice. Keep the higher value,9,,,
+1,baseplayer.png,Rage,normal.png,NormalType.png,All dice in your Attack Zone gain +1.,9,,,
+1,baseplayer.png,Poison Gas,poison.png,PoisonType.png,All ally dice increase their value by the number of Poison Cards in Rival's Discard pile.,9,,,Poison 1
+1,baseplayer.png,Poison Powder,poison.png,PoisonType.png,All ally dice decrease their value by the number of Poison Cards in Rival's Discard pile.,9,,,Poison 1
+1,baseplayer.png,Psychic,psychic.png,PsychicType.png,"Move up to 3 dice from an Attack Zone to Defense Zone, or from Defense Zone to Attack Zone. The Zones must be owned by the same player.",9,,,Scry 3
+1,baseplayer.png,Fly,flying.png,FlyingType.png,"Can only be played before moving this turn.
+
+Encounter any space on the map instead moving.",10,,,Draw +3 Cards
+1,baseplayer.png,Petal Dance,grass.png,GrassType.png,You may encounter an additional Pokemon this Turn.,10,,,
+1,baseplayer.png,Absorb,grass.png,GrassType.png,"2 dice of your choice gain -2.
+2 dice of your choice gain +2.",10,,,Recover 2 HP
+1,baseplayer.png,Spore,grass.png,GrassType.png,Gain +1 EXP for every die in your Attack Zone at the end of the turn,10,,,Gain +1 EXP
+1,baseplayer.png,Stun Spore,grass.png,GrassType.png,Gain +1 EXP for every die in your Defense Zone at the end of the turn,10,,,Gain +1 EXP
+1,baseplayer.png,Sleep Powder,grass.png,GrassType.png,Gain +1 EXP for every unused die at the end of the turn,10,,,Gain +1 EXP
+1,baseplayer.png,Earthquake,ground.png,GroundType.png,All Trainers shuffle their Discard piles back into their decks.,10,,,
+1,baseplayer.png,Mist,ice.png,IceType.png,Remove all Positive Stat Changes from a Pokemon,10,,,Freeze 1 die
+1,baseplayer.png,Haze,ice.png,IceType.png,Remove all Negative Stat Changes from a Pokemon,10,,,Freeze 1 die
+1,baseplayer.png,Ice Punch,ice.png,IceType.png,Target die gains -6. Then Freeze 1.,10,,,Freeze 1 die
+1,baseplayer.png,Supersonic,normal.png,NormalType.png,Enemy gains -2 ATK til the end of Turn.,10,ATK,-2,
+1,baseplayer.png,Sharpen,normal.png,NormalType.png,"Gain +2 ATK till the end of Turn.
+",10,ATK,2,
+1,baseplayer.png,Defense Curl,normal.png,NormalType.png,Gain +2 DEF till the end of Turn,10,DEF,2,
+1,baseplayer.png,Pay Day,normal.png,NormalType.png,Gain 1d6 EXP,10,,,
+1,baseplayer.png,Mimic,normal.png,NormalType.png,"Perform the top card of the Rival's Discard pile. Mimic fails if that card is not a Move.
+",10,,,
+1,baseplayer.png,Conversion,normal.png,NormalType.png,Gain the STAB from ALL moves till the end of turn,10,,,
+1,baseplayer.png,Metronome,normal.png,NormalType.png,Reveal the top card of the move deck. You use that move.,10,,,
+1,baseplayer.png,Tail Whip,normal.png,NormalType.png,Target gains -2 DEF till the end of Turn.,10,DEF,-2,
+1,baseplayer.png,Hypnosis,psychic.png,PsychicType.png,Swap 1 die with your Rival. You choose both dice,11,,,Scry 1
+1,baseplayer.png,Thunder Punch,electric.png,ElectricType.png,Target die gets +6. Then Paralyze 1.,12,,,"Paralyze 1
+"
+1,baseplayer.png,Rolling Kick,fighting.png,FightingType.png,"Target X dice, they gain -3
+
+X: Number of Fighting moves in your Discard",12,,,X+1
+1,baseplayer.png,Sky Attack,flying.png,FlyingType.png,Target die gets -11,12,,,Draw +3 Cards
+1,baseplayer.png,Blizzard,ice.png,IceType.png,Enemy gains -DEF & -ATK equal to number of Frozen dice.,12,,,Freeze 3 dice
+1,baseplayer.png,Whirlwind,normal.png,NormalType.png,"You may replace your encountered wild Pokemon, with the top card of your choice from ANY Route deck",12,,,
+1,baseplayer.png,Sludge,poison.png,PoisonType.png,All ally dice gain either -2 or +2,12,,,Poison 2
+1,baseplayer.png,Agility,psychic.png,PsychicType.png,All your dice gain -1. This move does not pass priority.,12,,,
+1,baseplayer.png,Rock Slide,rock.png,RockType.png,Gain +DEF equal to the number of dice in your Attack Zone.,13,,,
+1,baseplayer.png,Fire Blast,fire.png,FireType.png,Target die gets +11. Repeat this effect for every card in your Burn Zone.,14,,,Burn up to 3
+1,baseplayer.png,Mega Drain,grass.png,GrassType.png,"3 dice of your choice gain -3.
+3 dice of your choice gain +3.",14,,,Recover 3 HP
+1,baseplayer.png,Mega Kick,normal.png,NormalType.png,"Return all Moves with 'Kick' in the name, from your Discard pile to your hand.",14,,,
+1,baseplayer.png,Mega Punch,normal.png,NormalType.png,"Return all Moves with 'Punch' in the name, from your Discard pile to your hand.",14,,,
+1,baseplayer.png,Confuse Ray,ghost.png,GhostType.png,Look at your Rival's Hand. You may Discard 1 card of your choice.,15,,,Rival Discards 1 Card
+1,baseplayer.png,Glare,normal.png,NormalType.png,Enemy gains -3 ATK till the end of Turn,15,ATK,-3,
+1,baseplayer.png,Swords Dance,normal.png,NormalType.png,"Gain +3 ATK till the end of Turn.
+",15,ATK,3,
+1,baseplayer.png,Minimize,normal.png,NormalType.png,Gain +3 DEF till the end of Turn,15,DEF,3,
+1,baseplayer.png,Screech,normal.png,NormalType.png,Target gains -3 DEF till the end of Turn.,15,DEF,-3,
+1,baseplayer.png,Smog,poison.png,PoisonType.png,All ally dice gain either -3 or +3,16,,,Poison 3
+1,baseplayer.png,Thunder,electric.png,ElectricType.png,Target 6 dice get +2,18,,,"Paralyze 3
+"
+1,baseplayer.png,Roar,normal.png,NormalType.png,"You may replace your encountered wild Pokemon, with another one of your choice from the same Route deck",18,,,
+1,baseplayer.png,Fissure,ground.png,GroundType.png,Search your deck for 1 Card and put it into your hand. Then shuffle your deck.,20,,,
+1,baseplayer.png,Hyper Beam,normal.png,NormalType.png,"Put 1 die you own, into your Attack Zone regardless of value",20,,,
+1,baseplayer.png,Substitute,normal.png,NormalType.png,"Put 1 die you own, into your Defense Zone regardless of value",20,,,
+1,baseplayer.png,Solar Beam,grass.png,GrassType.png,"1 die of your choice gains -11.
+1 die of your choice gains +11.",24,,,Recover 5 HP
+1,baseplayer.png,Bicycle,normal.png,NormalType.png,You may move 1 additional space this turn,,,,
+1,baseplayer.png,Rare Candy,normal.png,NormalType.png,Gain +1 EXP,,,,
+1,baseplayer.png,Evolution Stone,normal.png,NormalType.png,Gain +2 EXP,,,,
+1,baseplayer.png,X Attack,normal.png,NormalType.png,Active Pokemon gains +1 ATK,,,,
+1,baseplayer.png,X Defend,normal.png,NormalType.png,Active Pokemon gains +1 DEF,,,,
+1,baseplayer.png,X Speed,normal.png,NormalType.png,Draw 2 Card,,,,
+1,baseplayer.png,Guard Spec,normal.png,NormalType.png,Target die gains -2,,,,
+1,baseplayer.png,Dire Hit,normal.png,NormalType.png,Target die gains +2,,,,
+1,baseplayer.png,Potion,normal.png,NormalType.png,Recover 1 HP,,,,
+1,baseplayer.png,Acid Armor,poison.png,PoisonType.png,"Gain +1 DEF, Poison 1 to ALL trainers.",,,,Gain +1 DEF
+1,baseplayer.png,Poison,poison.png,PoisonType.png,"Take 1 damage, then Draw 1. When this card is used, destroy it immediately.",,,,
+1,baseplayer.png,Fossil,rock.png,RockType.png,Can be exchanged,,,,
+1,baseplayer.png,Escape Rope,normal.png,NormalType.png,Look at the top card of any route deck. You may put it on the bottom instead.,,,,
